@@ -15,8 +15,6 @@ body {
     url("../fonts/Ranade-Regular.woff2") format("woff2"),
     url("../fonts/Ranade-Regular.woff") format("woff"),
     url("../fonts/Ranade-Regular.ttf") format("truetype");
-  background-color: rgb(255, 195, 135);
-  color: rgb(52, 10, 15);
 }
 
 a {

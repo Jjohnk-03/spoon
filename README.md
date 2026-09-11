@@ -24,15 +24,21 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 
 ## Woensdag 2 sept
 
+## Deepdive - Interactie: MMD, micro-interacties, forms
+
 Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een men u digitaal maakt.
 ![Wok to Walk](assets/woktowalk.png)
 ![Wok to Walk](assets/woktowalk1.png)
 
-## Deepdive -
+## Deepdive - Schetsen van o.a. interactie en animatie
 
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien
 
 ## Vrijdag 4 sept
+
+## Deepdive - Praktische CSS
+
+## Deepdive - CSS: fonts met kleur en effecten
 
 ## Maandag 7 sept
 
