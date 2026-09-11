@@ -33,13 +33,14 @@ Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke sta
 ## Deepdive - Schetsen van o.a. interactie en animatie
 
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
-![Schets](assets/schets.png)
+![Schets](assets/wireframe.png)
 
 ## Vrijdag 4 sept
 
 ## Deepdive - Praktische CSS
 
-We moesten een lelijke website mooier maken door een artikel te schrijven met wat componenten die vooraf werd gegeven.
+We moesten een lelijke website mooier maken door een artikel te schrijven met wat componenten die vooraf werd gegeven. De voorbereiding was eerst een lelijke website maken.
+![PCSS](assets/Praktischecss.png)
 
 ## Deepdive - CSS: fonts met kleur en effecten
 
