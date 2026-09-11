@@ -44,6 +44,13 @@ We moesten een lelijke website mooier maken door een artikel te schrijven met wa
 
 ## Deepdive - CSS: fonts met kleur en effecten
 
+Voor de voorbereiding moesten we eerst een stukje tekst na maken door er een font aan toe te voegen en kleur aan de eerste letter van de tekst. en we moesten bij CSS Diner game naar bij level 14 komen.
+![Foxopdracht](assets/Foxopdracht.png)
+![CssDiner](assets/Cssdiner.png)
+
+Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de voorbeeld gaat lijken
+![YouGoGirl](assets/Yougogirl.png)
+
 ## Maandag 7 sept
 
 ## Woensdag 9 sept
