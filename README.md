@@ -2,7 +2,7 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-## Learning Log
+# Learning Log
 
 ### Maandag 31 aug - Kickoff
 
