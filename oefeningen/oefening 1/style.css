@@ -1,0 +1,50 @@
+@font-face {
+  src: url("../fonts/ExpletusSans-Regular.ttf");
+  font-family: "Expletus Sans";
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  src: url("../fonts/ExpletusSans-Bold.ttf");
+  font-family: "Expletus Sans";
+  font-weight: 700;
+  font-style: regular;
+}
+
+main {
+  font-family: "Expletus Sans";
+}
+
+main p {
+  font-family: "Expletus Sans";
+}
+
+main p::first-letter {
+  font-size: 25px;
+  font-weight: 700;
+  color: #f09;
+}
+
+@layer basis {
+  /* Simpele CSS Remedy */
+  /* naar een idee van Jen Simmons */
+  /* github.com/jensimmons/cssremedy */
+  *,
+  *::after,
+  *::before {
+    box-sizing: border-box;
+  }
+
+  header,
+  main {
+    width: min(100%, 30rem);
+    margin-inline: auto;
+  }
+
+  main {
+    background: white;
+    color: black;
+    padding: var(--template-size-whitespace);
+  }
+}
