@@ -66,7 +66,7 @@ https://jen.dev/
 En had het kort geanalyseerd.
 ![TweeWebsites](assets/2websites.jpg)
 
-En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welke het minst. DUs voor ons was het meest webby: https://nuel.pw/
+En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welke het minst. Dus voor ons was het meest webby: https://nuel.pw/
 
 en het minst webby: https://sixey.es/
 
@@ -88,3 +88,9 @@ Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en 
 ## Woensdag 9 sept
 
 ## Vrijdag 11 sept
+
+![GridGarden](assets/gridgarden.jpg)
+![GridOefening1](assets/gridoefening1.jpg)
+![GridOefening2](assets/gridoefening2.jpg)
+
+## Maandag 14 sept
