@@ -1,20 +1,25 @@
 @font-face {
-  font-family: "Ranade-Regular";
-  src:
-    url("../fonts/Ranade-Regular.woff2") format("woff2"),
-    url("../fonts/Ranade-Regular.woff") format("woff"),
-    url("../fonts/Ranade-Regular.ttf") format("truetype");
+  font-family: "ltc-broadway";
+  src: url("/assets/type/Broadway\ Engraved\ Regular.otf");
   font-weight: 400;
-  font-display: swap;
   font-style: normal;
 }
 
 body {
-  font-family: "Ranade-Regular";
-  src:
-    url("../fonts/Ranade-Regular.woff2") format("woff2"),
-    url("../fonts/Ranade-Regular.woff") format("woff"),
-    url("../fonts/Ranade-Regular.ttf") format("truetype");
+  font-family: ltc-broadway, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  background-image: url("/assets/SVG/Achtergrond.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
 }
 
 a {
@@ -22,7 +27,13 @@ a {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin: 0;
   padding: 0;
+}
+
+footer {
+  position: absolute;
+  bottom: 8px;
+  left: 34em;
 }

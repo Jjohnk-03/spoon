@@ -138,3 +138,17 @@ Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je gr
 We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantwoord. En daarna hadden we een vel op onze tafel met een van de vragen die gesteld was. En daarmee moesten we zelf deelvragen bedenken die belangrijk waren om een beter antwoord te kunnen geven op de hoofdvraag. Daarna kregen we een ander vel met al de deelvragen bedacht en daarmee moesten we samen nadenken welke onderzoeksmethode we ervoor zouden kunnen toepassen om op een duidelijk antwoord te komen.
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
+
+### Checkout
+
+### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+Wanneer het niet meer werkt en geen overzicht heb van wat het probleem is. inspecteren en in de console kijken wat het probleem is.
+
+### Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Een goeie grid display maken met fractions. die deze code gebruiken: grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+
+### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbouwen wat er wel en niet goed aan is. Alleen heb ik nog niet het ontwerp af om het nu te kunnen doen.
