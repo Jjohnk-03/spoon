@@ -85,11 +85,21 @@ Bij mij inspireert een website het meest als ze interactief, expressief en veras
 
 Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en inspireren.
 
+## Dinsdag 8 sept
+
+Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 links verzamelt die best interessant allemaal een eigen functie hebben, maar wel releteerbaar is met films of webby.
+![HTMLPResentatie](assets/HTMLPresentatie.jpg)
+![HTMLPResentatie1](assets/HTMLPresentatie1.jpg)
+![HTMLPResentatie2](assets/HTMLPresentatie2.jpg)
+![HTMLPResentatie3](assets/HTMLPresentatie3.jpg)
+![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
+
 ## Woensdag 9 sept
 
 ## Vrijdag 11 sept
 
 ![GridGarden](assets/gridgarden.jpg)
+
 ![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
 
