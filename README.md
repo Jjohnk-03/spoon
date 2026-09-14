@@ -96,11 +96,45 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 
 ## Woensdag 9 sept
 
+We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
+![VisRes](assets/VisRes.png)
+![VisRes1](assets/VisRes1.png)
+![VisRes2](assets/VisRes2.png)
+![VisRes3](assets/VisRes3.png)
+![VisRes4](assets/VisRes4.png)
+![VisRes5](assets/VisRes5.png)
+
+### Checkout
+
+#### Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
+1. Van eerst het gevoel beschrijven
+
+2. Naar de abstracte vertaling te maken.
+
+3. tot slot door zelf ideeën te genereren.
+
+#### Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+Het gaat over hoe je jezelf kan herkennen in films en er kan inleven. En hoe het je kan inspireren.
+
+#### Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+
+Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onderzoeken.
+
 ## Vrijdag 11 sept
 
+### Deepdive - Grid 101 + Media queries
+
+Ter voorbereiding moest ik oefeningen doen die mij ging helpen met het begrijpen van de grid code's.
 ![GridGarden](assets/gridgarden.jpg)
 
+Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je grid goed kan gebruiken voor je eigen website.
 ![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
 
 ## Maandag 14 sept
+
+We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantwoord. En daarna hadden we een vel op onze tafel met een van de vragen die gesteld was. En daarmee moesten we zelf deelvragen bedenken die belangrijk waren om een beter antwoord te kunnen geven op de hoofdvraag. Daarna kregen we een ander vel met al de deelvragen bedacht en daarmee moesten we samen nadenken welke onderzoeksmethode we ervoor zouden kunnen toepassen om op een duidelijk antwoord te komen.
+![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
+![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
