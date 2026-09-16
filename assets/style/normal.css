@@ -16,8 +16,14 @@ body {
   color: rgb(0, 0, 0);
 }
 
+h1 {
+  position: fixed;
+  top: 0;
+  left: 20em;
+}
 a {
   color: rgb(148, 222, 227);
+  text-decoration: none;
 }
 
 ul {
@@ -44,6 +50,18 @@ img:nth-of-type(2) {
 
 footer {
   position: fixed;
-  bottom: 0;
+  bottom: 1em;
   left: 30em;
+}
+.random {
+  font-size: 1em;
+}
+ul:nth-child(1) {
+  font-size: 2em;
+}
+
+a:hover {
+  box-shadow: inset 300px 0 0 0 #54b3d6;
+  color: white;
+  transition-duration: 2s;
 }
