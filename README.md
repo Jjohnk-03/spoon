@@ -1,5 +1,7 @@
 # Model
 
+www.jjk-enterprise.nl
+
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 # Learning Log
