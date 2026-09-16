@@ -162,3 +162,21 @@ We hebben onze huidige status van de digital garden nagetekent.
 
 En daarna kreeg ik een schets van degene naast mij hoe ik het contrast kan verbeteren.
 ![Mobieltekening](assets/Mobieltekening1.jpg)
+
+### Checkout
+
+#### Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+
+Balans - Evenwichtig van elkaar. Dus aan beide kanten is het niet gespiegeld als bij symmetrie
+
+Symmetrie - Beide kanten is hetzelfde. deze zie je vaker terug komen in designs.
+
+Herhaling - hetzelfde blijft steeds terug komen.
+
+#### Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+
+hoe meer columns en rows hoe meer mogelijkheden maar het lijn talles ook uit waardoor het toch een structuur heeft.
+
+#### Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+
+De balans van de grid.
