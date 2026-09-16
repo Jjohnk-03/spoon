@@ -143,14 +143,20 @@ We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantw
 
 ### Checkout
 
-### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+#### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
 Wanneer het niet meer werkt en geen overzicht heb van wat het probleem is. inspecteren en in de console kijken wat het probleem is.
 
-### Vertel welke volgende stap je neemt om je website responsive te maken.
+#### Vertel welke volgende stap je neemt om je website responsive te maken.
 
 Een goeie grid display maken met fractions. die deze code gebruiken: grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
 
-### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+#### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbouwen wat er wel en niet goed aan is. Alleen heb ik nog niet het ontwerp af om het nu te kunnen doen.
+
+## Woensdag 16 sept
+
+We hebben onze huidige status van de digital garden nagetekent.
+![Mobieltekening](assets/Mobieltekening.jpg)
+![Mobieltekening](assets/Mobieltekening1.jpg)
