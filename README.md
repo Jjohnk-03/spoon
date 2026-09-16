@@ -159,4 +159,6 @@ Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbo
 
 We hebben onze huidige status van de digital garden nagetekent.
 ![Mobieltekening](assets/Mobieltekening.jpg)
+
+En daarna kreeg ik een schets van degene naast mij hoe ik het contrast kan verbeteren.
 ![Mobieltekening](assets/Mobieltekening1.jpg)
