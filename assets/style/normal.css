@@ -4,6 +4,7 @@
   --lichtblauw: rgb(148, 222, 227);
   --blauw: #54b3d6;
   --geel: rgb(227, 200, 92);
+  --lichtgeel: rgb(250, 222, 111);
   --donkergeel: rgb(171, 150, 68);
   --transparantgrijs: rgba(49, 49, 20, 0.853);
   --witregel-s: 0.5em;
@@ -56,7 +57,7 @@ header {
 h1 {
   padding: 5px;
   border: 5px dotted var(--geel);
-  background-color: var(--donkergeel);
+  background: linear-gradient(-0.25turn, var(--donkergeel), var(--lichtgeel));
   color: var(--transparantgrijs);
   align-self: center;
   justify-self: center;
@@ -66,6 +67,37 @@ h1 {
 nav {
   grid-column: 1;
   grid-row: 1;
+}
+
+header ul {
+  font-size: 2em;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--witregel-s-);
+  justify-items: center;
+
+  @media (width > 36em) {
+    display: block;
+    justify-items: start;
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--lichtblauw);
+  text-decoration: none;
+}
+
+a:hover {
+  box-shadow: inset 300px 0 0 0 var(--blauw);
+  color: var(--wit);
+  transition-duration: 2s;
 }
 
 main {
@@ -85,41 +117,6 @@ p {
   }
 }
 
-h2 {
-  visibility: hidden;
-}
-
-a {
-  color: var(--lichtblauw);
-  text-decoration: none;
-}
-
-a:hover {
-  box-shadow: inset 300px 0 0 0 var(--blauw);
-  color: var(--wit);
-  transition-duration: 2s;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-header ul {
-  font-size: 2em;
-
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--witregel-s-);
-  justify-items: center;
-
-  @media (width > 36em) {
-    display: block;
-    justify-items: start;
-  }
-}
-
 main > img:first-of-type {
   height: auto;
   width: 100%;
@@ -134,7 +131,6 @@ img:nth-of-type(2) {
   grid-column: 2;
   grid-row: 3;
   place-self: center;
-
   transition: 2s;
 
   &:hover {
@@ -161,19 +157,18 @@ label {
 
   input {
     appearance: none;
-
     position: absolute;
     inset: 0;
   }
 }
 
 footer {
-  position: fixed;
-  bottom: 1em;
-  left: 30em;
+  display: grid;
+  grid-column: 1/-1;
+  grid-template-columns: subgrid;
   font-size: 1em;
 }
-/* 
-img:nth-of-type(3):active {
-  animation: schuiven 1s forwards;
-} */
+
+h2 {
+  visibility: hidden;
+}
