@@ -99,7 +99,7 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ## Woensdag 9 sept
 
 We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
-
+![VisRes](assets/VisRes.png)
 ![VisRes1](assets/VisRes1.png)
 ![VisRes2](assets/VisRes2.png)
 ![VisRes3](assets/VisRes3.png)
