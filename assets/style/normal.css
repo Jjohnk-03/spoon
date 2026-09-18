@@ -158,21 +158,24 @@ label {
   height: auto;
   position: relative;
   width: 50%;
-  cursor: pointer;
   grid-column: 1;
   grid-row: 3;
   justify-self: center;
+  cursor: pointer;
   @media (width > 36em) {
     grid-column: 2/3;
+    cursor: pointer;
   }
   img {
     height: 100%;
+    cursor: pointer;
   }
 
   input {
     appearance: none;
     position: absolute;
     inset: 0;
+    cursor: pointer;
   }
 }
 
