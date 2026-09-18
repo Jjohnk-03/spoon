@@ -132,7 +132,6 @@ Ter voorbereiding moest ik oefeningen doen die mij ging helpen met het begrijpen
 ![GridGarden](assets/gridgarden.jpg)
 
 Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je grid goed kan gebruiken voor je eigen website.
-![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
 
 ## Maandag 14 sept
