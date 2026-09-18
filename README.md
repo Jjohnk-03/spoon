@@ -83,7 +83,7 @@ De digital garden is een website waar je je eigen ideeën kan publiceren en door
 Een website is 'webby' wanneer het voldoet aan de volgende eisen: Fluïde, adaptief, interactief/dynamisch, toegankelijk, volwassen, expressief, leuk/verassend.
 Bij mij inspireert een website het meest als ze interactief, expressief en verassend is.
 
-#### Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+#### Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 
 Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en inspireren.
 
