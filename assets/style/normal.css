@@ -32,7 +32,8 @@ body {
   font-family: ltc-broadway, sans-serif;
   font-style: normal;
   font-weight: 400;
-  background-image: url("/assets/SVG/Achtergrond.svg");
+  /* background-image: url("/assets/SVG/Achtergrond.svg"); */
+  background: radial-gradient(#c0322f, #180505);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
