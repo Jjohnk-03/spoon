@@ -107,6 +107,9 @@ We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die w
 ![VisRes4](assets/VisRes4.png)
 ![VisRes5](assets/VisRes5.png)
 
+![TelefoonWireframe](assets/telefoonwf.png)
+![TelefoonWireframe](assets/telefoonwf1.png)
+
 ### Checkout
 
 #### Leg uit waar het Visual Research in 3 stappen naartoe werkt
