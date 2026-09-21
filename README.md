@@ -184,3 +184,19 @@ hoe meer columns en rows hoe meer mogelijkheden maar het lijn talles ook uit waa
 #### Welk principe neem je mee in een laatste iteratie van je eigen Garden?
 
 De balans van de grid.
+
+## Vrijdag 18 sept
+
+We waren bezig met de retrospective
+
+![Retrospective](assets/rs.jpg)
+![Retrospective](assets/rs1.jpg)
+![Retrospective](assets/rs2.jpg)
+![Retrospective](assets/rs3.jpg)
+![Retrospective](assets/rs4.jpg)
+
+Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
+
+![Feedback](assets/feedback.jpg)
+![Feedback](assets/feedback1.jpg)
+![Feedback](assets/feedback3.jpg)
