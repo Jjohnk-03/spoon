@@ -200,3 +200,32 @@ Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 ![Feedback](assets/feedback.jpg)
 ![Feedback](assets/feedback1.jpg)
 ![Feedback](assets/feedback3.jpg)
+
+## Maandag 21 sept
+
+### Checkout
+
+#### Wat zijn HTML landmark role elements?
+
+Dat zijn de speciale elements die tussen <> in zitten en allemaal nog een aparte functie eraan hebben (of niet).
+
+#### Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Dat zijn alle titel groottes en die kan je nesten door bijvoorbeeld:
+in de
+header {
+font-family: sans-serif;
+h1 {
+color: white;
+}
+}
+
+dus je doet een element in de andere element die eigenlijk een kind is van dat element
+
+## Dinsdag 22 sept
+
+### Deepdive - Buttons, states en selectors
+
+Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepaalde naam kan geven in mijn code.
+
+![ButtonDeepdive](assets/button-dd.jpg)
