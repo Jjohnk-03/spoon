@@ -11,6 +11,7 @@
   --witregel-s: 0.5em;
   --witregel-m: calc(var(--witregel-s) * 2);
   --witregel-l: calc(var(--witregel-s) * 4);
+  --background: light-dark(radial-gradient(#3FCDD0,#E7FAFA), radial-gradient(#c0322f, #180505));
 }
 
 @font-face {
@@ -33,7 +34,8 @@ body {
   font-family: sans-serif;
   font-style: normal;
   font-weight: 400;
-  background: radial-gradient(#c0322f, #180505);
+  /* background: radial-gradient(#c0322f, #180505); */
+  background: var(--background);
   background-attachment: fixed;
   color: var(--zwart);
   display: grid;
@@ -96,6 +98,7 @@ ul {
   margin: 0;
   padding: 0;
   font-family: broadway, sans-serif;
+  text-shadow: 2px 2px #252424b3;
 }
 
 a {
