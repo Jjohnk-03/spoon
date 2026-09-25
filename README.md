@@ -229,3 +229,20 @@ dus je doet een element in de andere element die eigenlijk een kind is van dat e
 Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepaalde naam kan geven in mijn code.
 
 ![ButtonDeepdive](assets/button-dd.jpg)
+
+## Woensdag 23 sept
+
+1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+
+2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+
+Je kan een pop-up scherm hebben als je de website in het begin opent en daar informatie op zetten en hun de keuze geven of ze daarmee akkoord gaan voordat alles in werking gaat.
+
+3. Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+
+- Over het hele scherm en als je pas accepteert kan je de wbesite gebruiken
+- Je kan het pas aanvinken als je alles 'gelezen' hebt.
+
+4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+
+Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
