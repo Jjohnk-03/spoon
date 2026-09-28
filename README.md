@@ -246,3 +246,23 @@ Je kan een pop-up scherm hebben als je de website in het begin opent en daar inf
 4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
+
+## Vrijdag 25 sept
+
+### Checkout
+
+#### Wat heb je geleerd?
+
+Hoe je kan checken of je code goed in elkaar zit door de W3C validator te gebruiken. 
+
+#### Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+
+Dat is om te checken of je code goed in elkaar zit of niet. Het is belangrijk omdat je het wel volgens regels moet doen. En het moet goed kunnen runnen.
+
+#### Welke dingen vielen je op?
+
+Dat ik vergeet dat je een alt moet zetten bij je images
+
+#### Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
+Ik moet er iets van opsteken en leren en niet maken wat ik al kan.

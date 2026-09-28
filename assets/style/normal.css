@@ -111,7 +111,7 @@ a {
     transition-duration: 2s;
   }
 
-  &:focus {
+  &:focus-visible {
     outline: 2px solid var(--color-focusbox);
   }
 }
@@ -126,7 +126,7 @@ main {
 
 p {
   display: grid;
-  grid-column: 1/-1;
+  grid-column: 1/3;
   font-family: tw cen mt, sans-serif;
   color: var(--color-wit);
   text-wrap: pretty;
@@ -201,7 +201,7 @@ label {
     inset: 0;
     cursor: pointer;
 
-    &:focus {
+    &:focus-visible {
     outline: 2px solid var(--color-focusbox);
   }
   }
