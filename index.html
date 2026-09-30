@@ -1,4 +1,4 @@
-<!doctype html><html lang="en">
+<!doctype html><html lang="nl">
 
   <head>
     <meta charset="UTF-8">
@@ -8,10 +8,10 @@
 
     <title>Digitaal Tuintje van Jesse</title>
 
-    <link rel="stylesheet" href="./assets/style/normal.css">
+    <link rel="stylesheet" href="assets/style/normal.css">
 
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script data-page="https://jjk-enterprise.nl" src="https://digitaaltuintje.nl/webring.js" defer></script>
+    <script data-page="https://jjk-enterprise.nl" src="http://digitaaltuintje.nl/webring.js" defer></script>
   </head>
 
   <body>
@@ -40,29 +40,37 @@
         in de film zie je heel veel verschillende animatie styles die samen komen tot 1 mooie gecomposeerde film.
       </p>
       <img src="assets/SVG/dvdspeler.svg" alt="DVD-Speler">
-      <img src="assets/SVG/day.svg" alt="Dag" media="(prefers-color-scheme: light)">
-      <img src="assets/SVG/night.svg" alt="Nacht"  media="(prefers-color-scheme: dark)">
+      <img src="assets/SVG/day.svg" alt="Dag">
+      <img src="assets/SVG/night.svg" alt="Nacht">
       <img src="assets/SVG/dvddisc.svg" alt="DVD-Disc">
       <label>
         <input type="checkbox" title="DVD">
         <img src="assets/SVG/DVD.svg" alt="DVD">
       </label>
       <p>
-        
+        Ik ga wat reviews van mijn letterbox laten zien zodat je weet met/zonder spoilers wat ik van de film vind:
       </p>
+      <article>
+        <h3>The Odyssey</h3>
+        &#9733; &#9733; &#9733; &#9733; &#9734;
+        He was cheating for 7 years without knowing and the real beggers were the one simping for the queen her hand in marriage.
+        But we all know Matt Damon was the real deal.
+      </article>
+      
     </main>
 
     <footer>
       <nav>
         <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
+          <span>Privacy settings</span>
         </button>
       </nav>
-      <dialog id="cookieModal">
+      <dialog open id="cookieModal">
         <form method="dialog">
           <button aria-label="sluit cookies" class="close">X</button>
           <p>
           Als je de cookies accepteert ga je akkoord met wat volgt:
+          </p>
           <details><summary>De Webring van Justus Sturkenboom</summary>
           Daarmee run je dit JavaScript bestand op de website:
           <a href="https://digitaaltuintje.nl/webring.js" target="_blank">https://digitaaltuintje.nl/webring.js</a>
@@ -72,7 +80,7 @@
             Als externe hostingdienst kan GitHub technische gegevens verwerken die nodig zijn om de website aan jou te leveren. 
             Deze verwerking valt onder het privacybeleid en de voorwaarden van GitHub.
           </details>
-          </p>
+          
           <button onclick="setCookie()">Allow</button>
           <button onclick="unsetCookie()">Deny</button>
         </form>
