@@ -266,3 +266,24 @@ Dat ik vergeet dat je een alt moet zetten bij je images
 #### Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 
 Ik moet er iets van opsteken en leren en niet maken wat ik al kan.
+
+## Maandag 28 sept
+
+### Checkout
+
+#### Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+
+Dat hij liever bezig is met wat het doet dan met wat het betekent
+
+#### Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+cognitief
+motorisch
+Visueel
+Auditief
+
+#### Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+Door naar de lijst te gaan met de koppen
+Door alles voor te laten lezen en daarna selecteren.
+Met de tab knop

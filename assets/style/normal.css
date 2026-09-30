@@ -1,6 +1,15 @@
+/*****************************************************
+MARK: VARIABLES
+*****************************************************/
+
 :root {
+  --witregel-s: 0.5em;
+  --witregel-m: calc(var(--witregel-s) * 2);
+  --witregel-l: calc(var(--witregel-s) * 4);
+  --background: light-dark(radial-gradient(#3FCDD0,#E7FAFA), radial-gradient(#c0322f, #180505));
   --color-dark-text: #040405;
   --color-light-text: #feffea;
+  --color-text: light-dark(var(--color-dark-text), var(--color-light-text));
   --color-lichtblauw: rgb(148, 222, 227);
   --color-blauw: #54b3d6;
   --color-geel: rgb(227, 200, 92);
@@ -8,11 +17,13 @@
   --color-donkergeel: rgb(171, 150, 68);
   --color-transparantgrijs: rgba(49, 49, 20, 0.853);
   --color-focusbox: hotpink;
-  --witregel-s: 0.5em;
-  --witregel-m: calc(var(--witregel-s) * 2);
-  --witregel-l: calc(var(--witregel-s) * 4);
-  --background: light-dark(radial-gradient(#3FCDD0,#E7FAFA), radial-gradient(#c0322f, #180505));
+  --color-transparantwit: rgba(249, 249, 245, 0.789);
+  --color-textshadow: #252424b3;
 }
+
+/*****************************************************
+MARK: FONT-FACE
+*****************************************************/
 
 @font-face {
   font-family: "ltc-broadway";
@@ -20,6 +31,10 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/*****************************************************
+MARK: KEYFRAMES
+*****************************************************/
 
 @keyframes draaien {
   from {
@@ -30,14 +45,37 @@
   }
 }
 
+@keyframes verschijn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes verdwijn {
+  from {
+    display: block;
+    opacity: 1;
+  }
+  to {
+    display: none;
+    opacity: 0;
+  }
+}
+
+/*****************************************************
+MARK: BODY
+*****************************************************/
+
 body {
   font-family: sans-serif;
   font-style: normal;
   font-weight: 400;
-  /* background: radial-gradient(#c0322f, #180505); */
   background: var(--background);
   background-attachment: fixed;
-  color: var(--zwart);
+  color: var(--color-text);
   display: grid;
   grid-template-columns: 1fr 1fr;
 
@@ -57,31 +95,27 @@ header {
   @media (width>36em) {
     grid-template-columns: subgrid;
   }
+
+  nav {
+  grid-column: 1;
+  grid-row: 1;
+  }
 }
 
 h1 {
   font-family: ltc-broadway, sans-serif;
   padding: 5px;
   border: 5px dotted var(--color-geel);
-  background: linear-gradient(
-    -0.25turn,
-    var(--color-donkergeel),
-    var(--color-lichtgeel)
-  );
+  background: linear-gradient(-0.25turn, var(--color-donkergeel), var(--color-lichtgeel));
   color: var(--color-transparantgrijs);
   align-self: center;
   justify-self: center;
   text-align: center;
 }
 
-nav {
-  grid-column: 1;
-  grid-row: 1;
-}
 
 header ul {
   font-size: 2em;
-
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--witregel-s-);
@@ -98,7 +132,7 @@ ul {
   margin: 0;
   padding: 0;
   font-family: broadway, sans-serif;
-  text-shadow: 2px 2px #252424b3;
+  text-shadow: 2px 2px var(--color-textshadow);
 }
 
 a {
@@ -107,7 +141,7 @@ a {
 
   &:hover {
     box-shadow: inset 300px 0 0 0 var(--color-blauw);
-    color: var(--color-wit);
+    color: var(--color-light-text);
     transition-duration: 2s;
   }
 
@@ -143,6 +177,7 @@ p {
 main > img:first-of-type {
   height: auto;
   width: 100%;
+  display: grid;
   grid-column: 1/-1;
   margin-bottom: 1em;
   grid-row: 3;
@@ -155,6 +190,18 @@ main > img:first-of-type {
 }
 
 img:nth-of-type(2) {
+  height: auto;
+  width: 50%;
+  display: none;
+}
+
+img:nth-of-type(3) {
+  height: auto;
+  width: 50%;
+    display: none;
+}
+
+img:nth-of-type(4) {
   height: auto;
   width: 37.5%;
   animation: draaien 2s linear infinite;
@@ -203,21 +250,58 @@ label {
 
     &:focus-visible {
     outline: 2px solid var(--color-focusbox);
-  }
+    }
   }
 }
 
 /*****************************************************
 MARK: FOOTER
 *****************************************************/
+/* .consent footer {
+  display: grid;
+} */
 
 footer {
-  display: grid;
+  /* display: none; */
   grid-column: 1/-1;
   grid-template-columns: subgrid;
   font-size: 1em;
+ 
+  h2 {
+    visibility: hidden;
+  }
+
+  nav > button:nth-of-type(1) {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+  }
 }
 
-h2 {
-  visibility: hidden;
+footer dialog::backdrop {
+  background-color: var(--color-transparantwit);
+  backdrop-filter: blur(10px);
+  animation: verschijn 1s;
+}
+
+dialog {
+  animation: verdwijn 1s;
+  display: none;
+}
+
+dialog[open] {
+  display: block;
+  animation: verschijn 1s;
+}
+
+
+html:has( footer dialog:open ) {
+  overflow: hidden;
+  scrollbar-gutter: stable;
+}
+dialog button.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  aspect-ratio: 3em / 3em;
 }

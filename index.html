@@ -35,43 +35,48 @@
         Animaties. Alles komt erin voor! Het liefst een gemixte samenherende
         cohesie met een onverwachte mix (en matches). Van alles waarvan je denkt
         dat niet onder één lijst gezet kan worden toch mogelijk is. En mijn
-        inspiratie voor dit idee komt ook uit een film:
-        <em>"Spider-Man: Across The Spider-Verse".</em> in de film zie je heel
-        veel verschillende animatie styles die samen komen tot 1 mooie
-        gecomposeerde film.
+        inspiratie voor dit idee komt ook uit een film: 
+        <em>"Spider-Man: Across The Spider-Verse".</em>
+        in de film zie je heel veel verschillende animatie styles die samen komen tot 1 mooie gecomposeerde film.
       </p>
       <img src="assets/SVG/dvdspeler.svg" alt="DVD-Speler">
-      <!-- <img src="assets/SVG/day.svg" alt="Dag" media="(prefers-color-scheme: dark)">
-      <img src="assets/SVG/night.svg" alt="Nacht"  media="(prefers-color-scheme: dark)"> -->
+      <img src="assets/SVG/day.svg" alt="Dag" media="(prefers-color-scheme: light)">
+      <img src="assets/SVG/night.svg" alt="Nacht"  media="(prefers-color-scheme: dark)">
       <img src="assets/SVG/dvddisc.svg" alt="DVD-Disc">
       <label>
         <input type="checkbox" title="DVD">
         <img src="assets/SVG/DVD.svg" alt="DVD">
       </label>
+      <p>
+        
+      </p>
     </main>
 
-    <!-- Dit is waar de Digitale webring komt -->
     <footer>
       <nav>
         <button commandfor="cookieModal" command="show-modal">
           <span>Allow cookies?</span>
         </button>
       </nav>
+      <dialog id="cookieModal">
+        <form method="dialog">
+          <button aria-label="sluit cookies" class="close">X</button>
+          <p>
+          Als je de cookies accepteert ga je akkoord met wat volgt:
+          <details><summary>De Webring van Justus Sturkenboom</summary>
+          Daarmee run je dit JavaScript bestand op de website:
+          <a href="https://digitaaltuintje.nl/webring.js" target="_blank">https://digitaaltuintje.nl/webring.js</a>
+          </details>
+          <details><summary>Github Hosting</summary>
+            De website wordt gehost via GitHub Pages. 
+            Als externe hostingdienst kan GitHub technische gegevens verwerken die nodig zijn om de website aan jou te leveren. 
+            Deze verwerking valt onder het privacybeleid en de voorwaarden van GitHub.
+          </details>
+          </p>
+          <button onclick="setCookie()">Allow</button>
+          <button onclick="unsetCookie()">Deny</button>
+        </form>
+      </dialog>
     </footer>
-
-    <dialog id="cookieModal">
-      <form method="dialog">
-        <p>
-        We use cookies to personalise content and ads, to provide social media
-        features and to analyse our traffic. We also share information about
-        your use of our site with our social media, advertising and analytics
-        partners who may combine it with other information that you've
-        provided to them or that they've collected from your use of their
-        services.
-        </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
-      </form>
-    </dialog>
   </body>
 </html>
