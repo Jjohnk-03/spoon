@@ -287,3 +287,23 @@ Auditief
 Door naar de lijst te gaan met de koppen
 Door alles voor te laten lezen en daarna selecteren.
 Met de tab knop
+
+## Woensdag 30 sept
+
+### Checkout
+
+#### Waar staat WCAG en A11y voor?
+
+Ze bevatten allebei allebei een checklist of het voldoet aan de AA eisen of niet. De ene is wat makkelijker te lezen dan de ander.
+
+#### Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
+met een screenreader omdat het irritant is dat het alles voorleest dus ook tekst dus soms kom je op onnodige plekken terecht.
+
+#### Met welke beperking rekening houden vind je het meest lastig?
+
+Voor blinde mensen lijkt mij het lastigst
+
+#### Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het leuk kan houden voor alle doelgroepen.
