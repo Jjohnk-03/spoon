@@ -90,6 +90,23 @@ body {
   }
 }
 
+a {
+  color: var(--color-lichtblauw);
+  /* text-decoration: none; */
+
+  &:hover {
+    box-shadow: inset 300px 0 0 0 var(--color-blauw);
+    color: var(--color-light-text);
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+    
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-focusbox);
+  }
+}
+
 /*****************************************************
 MARK: HEADER
 *****************************************************/
@@ -141,20 +158,6 @@ ul {
   text-shadow: 2px 2px var(--color-textshadow);
 }
 
-a {
-  color: var(--color-lichtblauw);
-  text-decoration: none;
-
-  &:hover {
-    box-shadow: inset 300px 0 0 0 var(--color-blauw);
-    color: var(--color-light-text);
-    transition-duration: 2s;
-  }
-
-  &:focus-visible {
-    outline: 2px solid var(--color-focusbox);
-  }
-}
 /*****************************************************
 MARK: MAIN
 *****************************************************/
