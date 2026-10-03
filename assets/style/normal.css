@@ -10,6 +10,8 @@ MARK: VARIABLES
   --color-dark-text: #040405;
   --color-light-text: #feffea;
   --color-text: light-dark(var(--color-dark-text), var(--color-light-text));
+  --color-donkerrood-text: rgb(69, 8, 8);
+  --color-groen-link: rgb(12, 73, 23);
   --color-lichtblauw: rgb(148, 222, 227);
   --color-blauw: #54b3d6;
   --color-geel: rgb(227, 200, 92);
@@ -93,17 +95,19 @@ body {
 a {
   color: var(--color-lichtblauw);
   /* text-decoration: none; */
+}
 
-  &:hover {
-    box-shadow: inset 300px 0 0 0 var(--color-blauw);
-    color: var(--color-light-text);
-    transition-duration: 1s;
-    transition-timing-function: ease-out;
-    
-  }
+a,
+button,
+summary,
+input,
+select,
+textarea {
+  font: inherit;
+  cursor: pointer;
 
   &:focus-visible {
-    outline: 2px solid var(--color-focusbox);
+    outline: 2px dashed var(--color-focusbox);
   }
 }
 
@@ -156,6 +160,13 @@ ul {
   padding: 0;
   font-family: broadway, sans-serif;
   text-shadow: 2px 2px var(--color-textshadow);
+
+  li:hover {
+    box-shadow: inset 300px 0 0 0 var(--color-blauw);
+    color: var(--color-light-text);
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+  }
 }
 
 /*****************************************************
@@ -291,31 +302,44 @@ footer {
   }
 }
 
+dialog {
+  background: url("../SVG/ticket.svg") no-repeat;
+  border: none;
+  word-break: break-all;
+  width: 40%;
+}
+
 dialog#cookieModal[open] {
   position: fixed;
   inset: auto 1em 1em auto;
   animation: verschijn 1s ease-in;
   font-family: sans-serif;
+  margin-bottom: var(--witregel-s);
+  color: var(--color-donkerrood-text);
+  
+  
+  a {
+    color: var(--color-groen-link);
+  }
+
+  details {
+    margin-bottom: var(--witregel-s);
+  }
+
+  button {
+    display: flex;
+    -ms-flex-align: baseline;
+    margin-bottom: var(--witregel-s);
+  }
 }
 
 dialog#cookieModal::backdrop {
   background-color: var(--color-transparantwit);
   backdrop-filter: blur(10px);
-}
-
-footer dialog::backdrop {
-  background-color: var(--color-transparantwit);
-  backdrop-filter: blur(10px);
+  animation: verschijn 1s ease-in;
 }
 
 html:has( footer dialog:open ) {
   overflow: hidden;
   scrollbar-gutter: stable;
-}
-
-dialog button.close {
-  position: absolute;
-  top: 0;
-  right: 0;
-  aspect-ratio: 3em / 3em;
 }

@@ -10,6 +10,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
+We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen zodat we voorbereid zijn op alles
+![Zelftest](assets/Zelftest.jpg)
+![Zelftest](assets/zelftest1.jpg)
+
 ### Checkout
 
 #### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
@@ -24,7 +28,7 @@ Ik heb de naam JJK-Enterprise gekozen omdat die nog beschikbaar was en ik heb di
 
 Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de https link heb gecloned aan de VSCodium en daarna synchronized.
 
-## Woensdag 2 sept
+## Woensdag 2 sept - Sprint 0
 
 ### Deepdive - Interactie: MMD, micro-interacties, forms
 
@@ -37,7 +41,7 @@ Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke sta
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
 ![Schets](assets/wireframe.png)
 
-## Vrijdag 4 sept
+## Vrijdag 4 sept - Sprint 0
 
 ### Deepdive - Praktische CSS
 
@@ -53,7 +57,7 @@ Voor de voorbereiding moesten we eerst een stukje tekst na maken door er een fon
 Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de voorbeeld gaat lijken
 ![YouGoGirl](assets/Yougogirl.png)
 
-## Maandag 7 sept
+## Maandag 7 sept - Sprint 1
 
 We hebben allemaal een artikel gelezen die gaan over de digital garden. en Ik koos voor de 3 kleine artikels om te lezen en heb tijdens het lezen belangrijke informatie opgeschreven en we hebben tactieken gebruikt hoe je een website snel kan scannen en beter begrijpend te lezen.
 
@@ -87,7 +91,7 @@ Bij mij inspireert een website het meest als ze interactief, expressief en veras
 
 Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en inspireren.
 
-## Dinsdag 8 sept
+## Dinsdag 8 sept - Sprint 1
 
 Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 links verzamelt die best interessant allemaal een eigen functie hebben, maar wel releteerbaar is met films of webby.
 ![HTMLPResentatie](assets/HTMLPresentatie.jpg)
@@ -96,7 +100,7 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ![HTMLPResentatie3](assets/HTMLPresentatie3.jpg)
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
 
-## Woensdag 9 sept
+## Woensdag 9 sept - Sprint 1
 
 We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
 
@@ -128,7 +132,7 @@ Het gaat over hoe je jezelf kan herkennen in films en er kan inleven. En hoe het
 
 Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onderzoeken.
 
-## Vrijdag 11 sept
+## Vrijdag 11 sept - Sprint 1
 
 ### Deepdive - Grid 101 + Media queries
 
@@ -139,11 +143,12 @@ Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je gr
 ![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
 
-## Maandag 14 sept
+## Maandag 14 sept - Sprint 1
 
 We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantwoord. En daarna hadden we een vel op onze tafel met een van de vragen die gesteld was. En daarmee moesten we zelf deelvragen bedenken die belangrijk waren om een beter antwoord te kunnen geven op de hoofdvraag. Daarna kregen we een ander vel met al de deelvragen bedacht en daarmee moesten we samen nadenken welke onderzoeksmethode we ervoor zouden kunnen toepassen om op een duidelijk antwoord te komen.
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
+
 
 ### Checkout
 
@@ -159,7 +164,7 @@ Een goeie grid display maken met fractions. die deze code gebruiken: grid-templa
 
 Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbouwen wat er wel en niet goed aan is. Alleen heb ik nog niet het ontwerp af om het nu te kunnen doen.
 
-## Woensdag 16 sept
+## Woensdag 16 sept - Sprint 1
 
 We hebben onze huidige status van de digital garden nagetekent.
 ![Mobieltekening](assets/Mobieltekening.jpg)
@@ -185,7 +190,9 @@ hoe meer columns en rows hoe meer mogelijkheden maar het lijn talles ook uit waa
 
 De balans van de grid.
 
-## Vrijdag 18 sept
+## Vrijdag 18 sept - Sprint 1
+
+### Retrospective
 
 We waren bezig met de retrospective
 
@@ -201,7 +208,7 @@ Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 ![Feedback](assets/feedback1.jpg)
 ![Feedback](assets/feedback3.jpg)
 
-## Maandag 21 sept
+## Maandag 21 sept - Sprint 2
 
 ### Checkout
 
@@ -222,7 +229,7 @@ color: white;
 
 dus je doet een element in de andere element die eigenlijk een kind is van dat element
 
-## Dinsdag 22 sept
+## Dinsdag 22 sept - Sprint 2
 
 ### Deepdive - Buttons, states en selectors
 
@@ -230,7 +237,7 @@ Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepa
 
 ![ButtonDeepdive](assets/button-dd.jpg)
 
-## Woensdag 23 sept
+## Woensdag 23 sept - Sprint 2
 
 1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
 
@@ -247,7 +254,7 @@ Je kan een pop-up scherm hebben als je de website in het begin opent en daar inf
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
 
-## Vrijdag 25 sept
+## Vrijdag 25 sept - Sprint 2
 
 ### Checkout
 
@@ -267,7 +274,7 @@ Dat ik vergeet dat je een alt moet zetten bij je images
 
 Ik moet er iets van opsteken en leren en niet maken wat ik al kan.
 
-## Maandag 28 sept
+## Maandag 28 sept - Sprint 2
 
 ### Checkout
 
@@ -288,7 +295,16 @@ Door naar de lijst te gaan met de koppen
 Door alles voor te laten lezen en daarna selecteren.
 Met de tab knop
 
-## Woensdag 30 sept
+## Woensdag 30 sept - Sprint 2
+
+We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte een stensel die alle punten nalopen. Waar je dus Yes/No op kan omcirkelen.
+
+![WCAG-Checklist](assets/WCAG_CL.jpg)
+![WCAG-Checklist](assets/WCAG_CL1.jpg)
+![WCAG-Checklist](assets/WCAG_CL2.jpg)
+![WCAG-Checklist](assets/WCAG_CL3.jpg)
+![WCAG-Checklist](assets/WCAG_CL4.jpg)
+
 
 ### Checkout
 
@@ -307,3 +323,13 @@ Voor blinde mensen lijkt mij het lastigst
 #### Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 
 Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het leuk kan houden voor alle doelgroepen.
+
+## Vrijdag 2 okt - Sprint 2
+
+### Retrospective
+
+![Retrospective](assets/sprint2rs.jpg)
+![Retrospective](assets/sprint2rs1.jpg)
+![Retrospective](assets/sprint2rs2.jpg)
+
+Wat meer linken naar oude designs en de theorie die we leren

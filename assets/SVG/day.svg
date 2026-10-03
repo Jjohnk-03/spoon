@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.86 793.43">
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131.18 399.21">
   <defs>
     <style>
       .cls-1 {
@@ -12,7 +12,7 @@
       .cls-2 {
         fill: #010040;
         font-family: TwCenMT-Regular, 'Tw Cen MT';
-        font-size: 151px;
+        font-size: 75.5px;
         glyph-orientation-vertical: 0deg;
         letter-spacing: -.11em;
         text-orientation: upright;
@@ -22,11 +22,11 @@
   </defs>
   <g id="Laag_1-2" data-name="Laag 1">
     <g>
-      <line class="cls-1" x1="200.63" y1="103.61" x2="259.86" y2="103.61"/>
-      <rect class="cls-1" x="2.5" y="2.5" width="198.13" height="788.43" rx="12" ry="12"/>
-      <line class="cls-1" x1="200.63" y1="689.82" x2="259.86" y2="689.82"/>
-      <line class="cls-1" x1="200.63" y1="396.71" x2="259.86" y2="396.71"/>
+      <line class="cls-1" x1="101.56" y1="53.05" x2="131.18" y2="53.05"/>
+      <rect class="cls-1" x="2.5" y="2.5" width="99.06" height="394.21" rx="12" ry="12"/>
+      <line class="cls-1" x1="101.56" y1="346.16" x2="131.18" y2="346.16"/>
+      <line class="cls-1" x1="101.56" y1="199.61" x2="131.18" y2="199.61"/>
     </g>
-    <text class="cls-2" transform="translate(101.56 186.37)"><tspan x="0" y="0">DAY</tspan></text>
+    <text class="cls-2" transform="translate(52.03 94.43)"><tspan x="0" y="0">DAY</tspan></text>
   </g>
 </svg>
