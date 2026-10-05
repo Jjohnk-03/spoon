@@ -332,4 +332,6 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 ![Retrospective](assets/sprint2rs1.jpg)
 ![Retrospective](assets/sprint2rs2.jpg)
 
+Ik ging op gesprek met Barbara
+
 Wat meer linken naar oude designs en de theorie die we leren
