@@ -5,7 +5,7 @@
 /* alle fonts hier */
 
 @font-face {
-  src: "../fonts/Nemo.ttf";
+  src: url("fonts/Nemo.ttf");
   font-family: Nemo;
   font-weight: 400;
 }

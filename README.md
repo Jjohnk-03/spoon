@@ -335,3 +335,58 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 Ik ging op gesprek met Barbara
 
 Wat meer linken naar oude designs en de theorie die we leren
+
+## Maandag 5 okt - Sprint 3
+
+### Checkout
+
+#### Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+Kerning = De afstand tussen de letters van een woord wijzigen.
+Tracking = Hetzelfde als kerning maar over een groter geheel.
+Leading = Dat is de verticale ruimte van een tekst paragraaf wijzigen.
+Flush-left = Is dat de tekst aligned is aan de linker kant.
+Flush-right = Is dat de tekst aligned is aan de rechter kant.
+Centered = Is dat de gehele tekst in het midden is uitgelijnt.
+Justified = Dat de tekst verschillende witregels gebruiken om de uiteindes te alignen
+Indent = Is de witregel die je creeërt met een tab-toets aan de begin van de zin.
+Outdent = Het tegenovergestelde van Indent
+Modular scale = Is een schaal die gebruikt wordt als vergrotende factor die kan helpen om koppen verschillende grotes te geven maar wel in harmonie met elkaar houden.
+Movable type = is de stempels die gebruikt werden om een zin te printen. Ze werden naast elkaar gezet en dankzij dat ze allemaal dezelfde formaat blokjes hebben maakt het makkelijker om alles op formaat te doen en aligned.
+Focus punt = is het punt dat het meest opvalt om de volgorde van de lezer te bepalen met wat ze als eerste zien.
+Vijf soorten contrast = Je hebt 5 verschillende contrasten om bepaalde dingen op te laten vallen en een dynamisch effect te geven. Dat zijn de volgende 5: Size, Weight, Form, Structure and Color.
+Spatial tension = is de witregels en de ruimte en de plaatsing van tekst die gebruikt wordt om een flowend gevoel te geven.
+
+#### Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+tussen 45 characters en 75 characters
+
+#### Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+Plaatsing want dat zorgt ervoor dat je een eigen lay-out eraan kan geven.
+
+## Dinsdag 5 okt - Sprint 3
+
+### Deepdive - Interessantere layouts
+
+Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven die responsive zijn of een clamp hebben met daarin bijvoorbeeld een viewport en de clamp zorgt ervoor dat iets niet groter of kleiner word dan een waarde.
+
+![InteressanteLay-outs](assets/interessanteLayouts.jpg)
+
+## Woensdag 6 okt - Sprint 3
+
+### Checkout
+
+#### Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+
+
+#### Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+
+
+#### Hoeveel gekkigheid moet er in je werk zitten?
+
+
+
+### Deepdive - Variabele fonts

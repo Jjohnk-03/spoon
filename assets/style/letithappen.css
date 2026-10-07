@@ -1,9 +1,89 @@
+:root {
+  --line-height: 2em;
+  --column-width: calc(var(var(--line-height) * 1.125));
+  /* 6.583em
+  5.852em
+  5.202em
+  4.624em
+  4.11em
+  3.653em
+  3.247em */
+--scale-9:  2.887em;
+--scale-8:  2.566em;
+--scale-7:  2.281em;
+--scale-6:  2.027em;
+--scale-5:  1.802em;
+--scale-4:  1.602em;
+--scale-3:  1.424em;
+--scale-2:  1.266em;
+--scale-1:  1.125em;
+--scale-0:  1em;
+  /* 0.889em
+  0.79em
+  0.702em
+  0.624em
+  0.555em
+  0.493em */
+}
+
 /* MARK: fonts */
 @font-face {
   font-family: 'Seraphs';
-  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+  src: url('/assets//type/SeraphsVF.woff2') format('woff2'); /* Modern Browsers */
+  font-variation-settings: "wght" 150, "SRFS" 11;
 }
+
 /* MARK: items */
 body{
   font-family: 'Seraphs';
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(5em, 1fr));
+}
+
+header{
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-template-rows: subgrid;
+  grid-column: 1/2;
+  grid-row: 1/-1;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap:.2em;
+  font-size: clamp(var(--scale-0), var(--scale-2), var(--scale-9));
+  line-height: var(--line-height);
+}
+
+refrein {
+  grid-column: 2/3;
+}
+
+/* stretch {
+grid-column: 2/3;
+font-weight: 700;
+text-align: center;
+letter-spacing: .5em;
+}
+
+shadow {
+  text-shadow: 2px 2px 4px #000000;
+}
+
+shallow {
+  color: transparent;
+  background-color: rgb(107, 103, 103);
+  background-clip: text;
+  font-weight: 700;
+  text-shadow: -1px -1px 10px #ffffff;
+} */
+
+footer {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-template-rows: subgrid;
+  grid-column: 1/-1;
+  grid-row: -1;
 }
