@@ -4,10 +4,25 @@
 
 /* 4x een font aanroepen: Saira Stencil, Kablammo en Cheeeze */
 
+@font-face {
+	font-family: "SairaStencil";
+	src: url("SairaStencil.ttf");
+}
 
+@font-face {
+	font-family: "Kablammo";
+	src: url("Kablammo.ttf");
+}
 
+@font-face {
+	font-family: "Cheeze";
+	src: url("Cheeeze.woff2");
+}
 
-
+@font-face {
+	font-family: "Plastic";
+	src: url("Plastic.woff2");
+}
 
 
 /*****************/
@@ -22,11 +37,13 @@ section:nth-of-type(1) {
 		color:lightgoldenrodyellow;
 
 		/* jouw code hier */
-
+		font-family: SairaStencil;
+		font-variation-settings: "wght" 100, "wdth" 50;
+		transition: 1s;
 
 		&:hover {
 			/* jouw code hier */
-
+			font-variation-settings: "wght" 900, "wdth" 125;
 
 		}
 	}
@@ -45,18 +62,19 @@ section:nth-of-type(2) {
 	background-color:yellow;
 
 	h2 {
-		background-image:linear-gradient(in oklch,mediumblue,deeppink);
+		background-image: linear-gradient(in oklch,mediumblue,deeppink);
 		background-clip: text;
-		color:transparent;
-		font-weight:400;
+		color: transparent;
+		font-weight: 400;
 
 		/* jouw code hier */
-
+		font-family: Kablammo;
+		font-variation-settings: "MORF" 0;
+		transition: 1s;
 
 		&:hover {
 			/* jouw code hier */
-
-
+		font-variation-settings: "MORF" 60;
 		}
 	}
 }
@@ -77,10 +95,13 @@ section:nth-of-type(3) {
 		color:white;
 
 		/* jouw code hier */
-
+		font-family: Plastic;
+		font-variation-settings: "wght" 150, "SRIF" 100;
+		transition: 1s;
 
 		&:hover {
 			/* jouw code hier */
+			font-variation-settings: "wght" 900, "SRIF" 1000;
 
 
 		}
@@ -100,7 +121,7 @@ section:nth-of-type(4) {
 	background-color:mediumblue;
 
 	h2 {
-		background-image: url("images/gatenkaas.jpg");
+		background-image: url("gatenkaas.jpg");
 		background-size:2em auto;
 		background-position:center center;
 		background-clip:text;
@@ -108,11 +129,13 @@ section:nth-of-type(4) {
 		font-weight:400;
 
 		/* jouw code hier */
-
+		font-family: Cheeze;
+		font-variation-settings: "yest" 400, "grvt" 0, "temp" 0;
+		transition: 1s;
 
 		&:hover {
 			/* jouw code hier */
-
+			font-variation-settings: "yest" 400, "grvt" 1000, "temp" 1000;
 
 		}
 	}

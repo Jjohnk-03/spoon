@@ -1,0 +1,216 @@
+/**************/
+/* @FONT-FACE */
+/**************/
+
+/* 4x een font aanroepen: Noto Serif, Climate Crisis, Nabla en Poo */
+
+@font-face {
+	font-family: "NotoSerif";
+	src: url("NotoSerif.ttf");
+}
+
+@font-face {
+	font-family: "ClimateCrisis";
+	src: url("ClimateCrisis.ttf");
+}
+
+@font-face {
+	font-family: "Nabla";
+	src: url("Nabla.ttf");
+}
+
+@font-face {
+	font-family: "Poo";
+	src: url("Poo.woff2");
+}
+
+
+
+
+
+
+/**************/
+/* NOTO SERIF */
+/**************/
+
+section:nth-of-type(1) {
+	background-image: linear-gradient(in oklch, indigo,purple);
+	color:white;
+	
+	h2 span {
+		transition-duration:.3s;
+		transition-delay: calc( sibling-index() * .1s);
+		transition-timing-function:ease-in-out;
+		transition-property:font-weight;
+		
+		/* jouw code hier */
+		font-family: NotoSerif;
+		font-weight: 100;
+	}
+
+	h2:hover span {
+		/* jouw code hier */
+	font-weight: 900;
+		
+	}
+}
+
+
+
+
+
+
+/*******************/
+/* CLIMATE CRISIS */
+/*******************/
+
+section:nth-of-type(2) {
+	background-image: linear-gradient(in oklch, mediumblue,dodgerblue);
+	color:white;
+
+	h2 span {
+		/* jouw code hier */
+		font-family: ClimateCrisis;
+		
+
+	}
+
+	h2:hover span {
+		/* jouw code hier */
+
+		
+	}
+}
+
+
+
+
+
+/*********/
+/* NABLA */
+/*********/
+
+section:nth-of-type(3) {
+	background-image: linear-gradient(in oklch, orangered,gold);
+	color:white;
+
+	h2 span {
+		/* jouw code hier */
+
+		
+	}
+
+	h2:hover span {
+		/* jouw code hier */
+
+		
+	}
+}
+
+
+
+
+
+
+/*******/
+/* POO */
+/*******/
+
+section:nth-of-type(4) {
+	background-image: linear-gradient(in oklch, lime ,limegreen);
+
+	h2 span {
+		/* jouw code hier */
+
+		
+	}
+	
+	&:hover h2 span {
+		/* jouw code hier */
+
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************************/
+/* BASIS - HOEF JE NIETS MEE TE DOEN */
+/*************************************/
+
+@layer basis {
+	
+	* {
+		box-sizing:border-box;
+	}
+
+	html {
+		color-scheme:light dark;	
+	}
+	
+	body {
+		display:grid;
+		place-content:safe center;
+		text-align:center;
+	}
+	
+	h1 {
+		width:min-content;
+		margin:.2em auto;
+		font-size:clamp(2.5rem, 2rem + 2.5vw, 3.5rem);
+	}
+
+	main {
+		font-size:clamp(1rem, 0.5rem + 2.5vw, 2rem);
+
+		display:grid;
+		justify-content:center;
+		justify-items:center;
+		gap:1em;
+
+	}
+
+	section {
+		border-radius:2rem;
+		corner-shape:squircle;
+		justify-self:center;
+		padding:2rem;
+	}
+
+	h2 {
+		margin:0;
+
+		display:flex;
+
+		font-size: clamp(2.5rem, 0.75rem + 8.75vw, 6rem);
+		line-height:1;
+	}
+}
