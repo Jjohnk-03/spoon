@@ -70,14 +70,19 @@ section:nth-of-type(2) {
 
 	h2 span {
 		/* jouw code hier */
+		font-weight: 400;
+		transition-duration:3s;
+		transition-delay: calc( sibling-index() * 1s);
+		transition-timing-function: ease-in;
+		transition-property: font-variation-settings;
 		font-family: ClimateCrisis;
-		
+		font-variation-settings: "YEAR" 1979;
 
 	}
 
 	h2:hover span {
 		/* jouw code hier */
-
+		font-variation-settings: "YEAR" 2050;
 		
 	}
 }
@@ -96,12 +101,18 @@ section:nth-of-type(3) {
 
 	h2 span {
 		/* jouw code hier */
-
+		font-family: Nabla;
+		font-variation-settings: "EDPT" 0, "EHLT" 0;
+		transition-duration:.3s;
+		transition-delay: calc( sibling-index() * .1s);
+		transition-timing-function: ease-in-out;
+		transition-property: font-variation-settings;
 		
 	}
 
 	h2:hover span {
 		/* jouw code hier */
+		font-variation-settings: "EDPT" 100, "EHLT" 24;
 
 		
 	}
@@ -121,13 +132,18 @@ section:nth-of-type(4) {
 
 	h2 span {
 		/* jouw code hier */
-
+		font-family: Poo;
+		font-variation-settings: "crap" 100;
+		transition-duration: .1s;
+		transition-delay: calc( sibling-index() * .3s);
+		transition-timing-function: ease-in;
+		transition-property: font-variation-settings;
 		
 	}
 	
 	&:hover h2 span {
 		/* jouw code hier */
-
+		font-variation-settings: "crap" calc(900 / sibling-count() * sibling-index());
 		
 	}
 }
