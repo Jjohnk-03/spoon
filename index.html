@@ -21,8 +21,8 @@
         <ul>
           <li><a href="index.html" title="Home">Home</a></li>
           <li><a href="https://github.com/Jjohnk-03/spoon/blob/main/README.md" title="Log">Log</a></li>
-          <li><a href="story.html">Story</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="story.html" title="Story">Story</a></li>
+          <li><a href="contact.html" title="Contact">Contact</a></li>
         </ul>
       </nav>
     </header>
@@ -40,8 +40,12 @@
         in de film zie je heel veel verschillende animatie styles die samen komen tot 1 mooie gecomposeerde film.
       </p>
       <img src="assets/SVG/dvdspeler.svg" alt="DVD. Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o with Zendaya and Theron. A film by Christopher Nolan. The Odyssey. 16/07/2026.">
-      <img src="assets/SVG/day.svg" alt="Dag">
-      <img src="assets/SVG/night.svg" alt="Nacht">
+     
+
+      <picture>
+      <source srcset="assets/SVG/day.svg" title="Donker/Licht modus switch" media="(prefers-color-scheme: light)" />
+      <img src="assets/SVG/night.svg" title="Donker/Licht modus switch" alt="Nacht">
+      </picture>
       <img src="assets/SVG/dvddisc.svg" alt="DVD-Disc">
       <label>
         <input type="checkbox" title="DVD">

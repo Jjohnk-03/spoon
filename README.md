@@ -100,6 +100,12 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ![HTMLPResentatie3](assets/HTMLPresentatie3.jpg)
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
 
+### Deepdive - Light & Dark theme
+
+Ik heb hier geleerd hoe ik een basic custom light and dark background kan gebruiken. Dus ik ga dat nu ook al implementeren in mijn eigen website, maar ik ga het met een gradient background doen.
+
+![Light&Dark](assets/lightanddark.png)
+
 ## Woensdag 9 sept - Sprint 1
 
 We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
