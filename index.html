@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="assets/style/normal.css">
 
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
+    <!-- <script src="node.js" defer></script> -->
     <script data-page="https://jjk-enterprise.nl" src="https://digitaaltuintje.nl/webring.js" defer></script>
+    
   </head>
 
   <body>
@@ -20,10 +22,10 @@
       <nav>
         <ul>
           <li><a href="index.html" title="Home">Home</a></li>
-          <li><a href="https://github.com/Jjohnk-03/spoon/blob/main/README.md" title="Log">Log</a></li>
-          <li><a href="story.html" title="Story">Story</a></li>
+          <li><a href="https://github.com/Jjohnk-03/spoon/blob/main/README.md" title="Log" target="_blank">Log</a></li>
+          <li><a href="story.html" title="Story" target="_blank">Story</a></li>
           <li><a href="song.html" title="Song" target="_blank">Song</a></li>
-          <li><a href="contact.html" title="Contact">Contact</a></li>
+          <!-- <li><a href="contact.html" title="Contact">Contact</a></li> -->
         </ul>
       </nav>
     </header>
@@ -40,13 +42,11 @@
         in de film zie je heel veel verschillende animatie styles die samen komen tot 1 mooie gecomposeerde film.
       </p>
       <img src="assets/SVG/dvdspeler.svg" alt="DVD. Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o with Zendaya and Theron. A film by Christopher Nolan. The Odyssey. 16/07/2026.">
+      
       <label>
-      <input type="checkbox" title="Donker/Licht modus switch" class="switch" value="light">
-      <picture>
-      <source srcset="assets/SVG/day.svg" title="Donker/Licht modus switch" media="prefers-color-scheme: light" />
-      <img src="assets/SVG/night.svg" title="Donker/Licht modus switch" alt="Nacht">
-      </picture>
+      <input type="checkbox" id="lightdarkswitch" title="Donker/Licht modus switch" class="switch" value="light">
       </label>
+      
       <img src="assets/SVG/dvddisc.svg" alt="DVD-Disc">
       <label>
         <input type="checkbox" title="DVD" class="disc">
@@ -76,12 +76,14 @@
           </details>
 
           <h4> Optionele cookies</h4>
+   
+
+
           <details><summary>De Webring van Justus Sturkenboom</summary>
           Daarmee run je dit JavaScript bestand op de website:
           <a href="https://digitaaltuintje.nl/webring.js" target="_blank">webring.js</a>
-          </details>
-          <button onclick="setCookie()">Alle cookies</button>
-          <button onclick="unsetCookie()">Noodzakelijke cookies</button>
+          </details>       <input type="radio" value="setCookie()">accept</input>
+          <button>Bevestig</button>
         </form>
       </dialog>
     </footer>

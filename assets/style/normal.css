@@ -10,6 +10,7 @@ MARK: VARIABLES
   --color-dark-text: #040405;
   --color-light-text: #feffea;
   --color-text: light-dark(var(--color-dark-text), var(--color-light-text));
+  --focus-color-glow: light-dark(rgb(163 51 51),rgb(0 255 255 ));
   --color-donkerrood-text: rgb(69, 8, 8);
   --color-groen-link: rgb(12, 73, 23);
   --color-lichtblauw: rgb(148, 222, 227);
@@ -19,12 +20,13 @@ MARK: VARIABLES
   --color-donkergeel: rgb(171, 150, 68);
   --color-transparantgrijs: rgba(49, 49, 20, 0.853);
   --color-focusbox: hotpink;
-  --color-link: orange;
-  --color-visited: rgb(83, 57, 135);
+  --color-link: rgb(196, 148, 17);
+  --color-visited:light-dark(rgb(142, 32, 32), rgb(177, 142, 241));
   --color-transparantwit: rgba(249, 249, 245, 0.789);
   --color-textshadow: #252424b3;
   --symbol-star: &#9733;
   --symbol-star-empty: &#9734;
+  --color-wit: #ffff;
 
 }
 
@@ -178,8 +180,8 @@ header ul {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
-  font-family: broadway, sans-serif;
+  padding: var(--witregel-s);
+  font-family: sans-serif;
   text-shadow: 2px 2px var(--color-textshadow);
 
   li:hover {
@@ -200,12 +202,20 @@ main {
 }
 
 h2 {
+  rotate: -20deg;
   text-align: end;
-  font-size: clamp(2em, 3cqi, 20em);
+  font-size: clamp(1em, 2cqi, 10em);
+  font-family: broadway;
+  text-align: center;
+  background: url(/assets/SVG/ticket.svg) no-repeat;
+  margin-inline-start: var(--witregel-l);
+  margin: 0;
+  line-height: 1;
+
 }
 
 p:first-of-type {
-  grid-column: 2/3;
+  grid-column: 1/3;
   font-family: tw cen mt, sans-serif;
   color: var(--color-wit);
   text-wrap: balance;
@@ -213,11 +223,14 @@ p:first-of-type {
   margin-inline-start: 1rem;
   justify-self: center;
   padding: var(--witregel-l);
+  grid-row: 2;
+  max-width: 65ch;
 
   @media (width > 46em) {
     grid-column: 2/3;
     text-wrap: pretty;
     font-size: 1.3rem;
+    grid-row: 1;
   }
 }
 
@@ -227,7 +240,7 @@ main > img:first-of-type {
   width: 60%;
   grid-column: 1/-1;
   margin-bottom: 1em;
-  grid-row: 3;
+  grid-row: 4;
   justify-self: center;
 
   @media (width > 36em) {
@@ -243,6 +256,11 @@ label:first-of-type {
   height: auto;
   top: 1rem;
   justify-self: end;
+  grid-column: 3;
+  height: 293px;
+  width: 96px;
+  background-image:light-dark(url("/assets/SVG/day.svg"), url("/assets/SVG/night.svg"));
+  background-size: 100% 100%;
 
   @media (width > 36em) {
     width: 30%;
@@ -250,10 +268,21 @@ label:first-of-type {
     
   }
 
+  &:has( input:focus ) {
+    filter: 
+      drop-shadow(0 0 1em var(--focus-color-glow))
+      drop-shadow(0 0 1.5em var(--color-wit));
+  }
+
   input {
     appearance: none;
     position: absolute;
     inset: 0;
+
+    &:focus {
+      outline: none;
+      
+    }
   }
 
 
@@ -265,7 +294,7 @@ img:nth-of-type(2) {
   width: 17.5%;
   animation: draaien 2s linear infinite;
   grid-column: 1;
-  grid-row: 4;
+  grid-row: 5;
   place-self: center;
   transition: 2s;
 
@@ -291,7 +320,7 @@ label:nth-of-type(2) {
   grid-row: 5;
   justify-self: center;
   cursor: pointer;
-  
+
   @media (width > 36em) {
     grid-column: 2/3;
     cursor: pointer;
@@ -307,6 +336,16 @@ label:nth-of-type(2) {
     outline: 2px solid var(--color-focusbox);
     }
   }
+}
+
+label:nth-of-type(2) img {
+  transition: .5s;
+}
+
+label:nth-of-type(2) img:hover,
+label:nth-of-type(2):has(input:hover) img {
+    transition: 1s;
+    transform: scale(1.2) rotate(-10deg) ;
 }
 
 p:nth-of-type(2) {
