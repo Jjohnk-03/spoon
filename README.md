@@ -106,6 +106,8 @@ Ik heb hier geleerd hoe ik een basic custom light and dark background kan gebrui
 
 ![Light&Dark](assets/lightanddark.png)
 
+Ik heb ook geleerd hoe ik foto's kan afwisselen per thema light of dark. Daarmee kan ik een light/dark switch maken en ik heb al een idee hoe.
+
 ## Woensdag 9 sept - Sprint 1
 
 We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
@@ -137,6 +139,12 @@ Het gaat over hoe je jezelf kan herkennen in films en er kan inleven. En hoe het
 #### Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 
 Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onderzoeken.
+
+## Donderdag 10 sept - Sprint 1
+
+### Deepdive - Mooie kleuren en gradients
+
+Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan gebruiken maar ook hoe je percentages kan gebruiken om een positie aan te geven.
 
 ## Vrijdag 11 sept - Sprint 1
 
@@ -260,7 +268,36 @@ Je kan een pop-up scherm hebben als je de website in het begin opent en daar inf
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
 
+### Checkout
+
+#### Wat is een wireflow en wat heb je er aan?
+
+een wireflow kan heel goed laten zien hoe je van de ene scherm naar de andere scherm gaat door een bepaalde actie uit te voeren. het laat alle essentiele elementen zien en de plaatsing ervan en het helpt je om te ontdekken hoe goed het flowt zonder te veel moeite erin te stoppen. Zo kan je verschillende wegen proberen.
+
+#### Wat zijn dark UX patterns? Geef drie voorbeelden...
+
+Dat zijn patronen die jou als consumer kan misleiden, manipuleren of je überhaupt gewoon tegenwerken (zonder dat je het door hebt).
+
+Confirmshaming: De weiger-knop krijgt een pijnlijke of schuld-opwekkende tekst
+
+Roach Motel: Het is heel makkelijk om ergens lid van te worden, maar bijna onmogelijk om het op te zeggen.
+
+Hidden costs: Extra kosten pas laten zien in de allerlaatste stap van het afrekenen
+
+
+#### Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
+Met hoe duidelijk alles is. Transparant zijn met alles. En het moet makkelijk terug te vinden zijn als je iets wilt aanpassen. en toegankelijk voor iedereen.
+
+## Donderdag 24 sept - Sprint 2
+
+### Deepdive - Buttons + Dialogs
+
+Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je js bestand om de body een class te geven en daarmee iets laten gebeuren. Zoals een verandering of animatie. Ik ga dit gebruiken om mijn dialog beter te maken.
+
 ## Vrijdag 25 sept - Sprint 2
+
+### Deepdive - Position + Dialogs
 
 ### Checkout
 

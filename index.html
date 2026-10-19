@@ -35,20 +35,20 @@
         Animaties. Alles komt erin voor! Het liefst een gemixte samenherende
         cohesie met een onverwachte mix (en matches). Van alles waarvan je denkt
         dat niet onder één lijst gezet kan worden toch mogelijk is. En mijn
-        inspiratie voor dit idee komt ook uit een film: 
-        <em>"Spider-Man: Across The Spider-Verse".</em>
+        inspiratie voor dit idee komt ook uit een film: "Spider-Man: Across The Spider-Verse".
         in de film zie je heel veel verschillende animatie styles die samen komen tot 1 mooie gecomposeerde film.
       </p>
       <img src="assets/SVG/dvdspeler.svg" alt="DVD. Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o with Zendaya and Theron. A film by Christopher Nolan. The Odyssey. 16/07/2026.">
-     
-
+      <label>
+      <input type="checkbox" title="Donker/Licht modus switch" class="switch" value="light">
       <picture>
       <source srcset="assets/SVG/day.svg" title="Donker/Licht modus switch" media="(prefers-color-scheme: light)" />
       <img src="assets/SVG/night.svg" title="Donker/Licht modus switch" alt="Nacht">
       </picture>
+      </label>
       <img src="assets/SVG/dvddisc.svg" alt="DVD-Disc">
       <label>
-        <input type="checkbox" title="DVD">
+        <input type="checkbox" title="DVD" class="disc">
         <img src="assets/SVG/DVD.svg" alt="DVD">
       </label>
       <!-- <p>
@@ -73,12 +73,9 @@
         <form method="dialog">
           <p>
           Als je de cookies accepteert ga je akkoord met wat volgt:
-          </p>
-          <details><summary>De Webring van Justus Sturkenboom</summary>
-          Daarmee run je dit JavaScript bestand op de website:
-          <a href="https://digitaaltuintje.nl/webring.js" target="_blank">webring.js</a>
-          </details>
+          </p><h4>Noodzakelijke cookies:</h4>
           <details><summary>Github Hosting</summary>
+            
             De website wordt gehost via GitHub Pages. 
             Als externe hostingdienst kan GitHub technische gegevens verwerken die nodig zijn om de website aan jou te leveren. 
             Deze verwerking valt onder het 
@@ -86,8 +83,14 @@
               privacybeleid en de voorwaarden van GitHub.
             </a>
           </details>
-          <button onclick="setCookie()">Alle cookies (Ik accepteer de webring en github voorwaardes)</button>
-          <button onclick="unsetCookie()">Noodzakelijke cookies (Ik heb het gelezen, maar ik accepteer de webring niet.)</button>
+
+          <h4> Optionele cookies</h4>
+          <details><summary>De Webring van Justus Sturkenboom</summary>
+          Daarmee run je dit JavaScript bestand op de website:
+          <a href="https://digitaaltuintje.nl/webring.js" target="_blank">webring.js</a>
+          </details>
+          <button onclick="setCookie()">Alle cookies</button>
+          <button onclick="unsetCookie()">Noodzakelijke cookies</button>
         </form>
       </dialog>
     </footer>
