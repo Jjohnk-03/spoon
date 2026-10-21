@@ -427,7 +427,7 @@ footer {
 
 dialog#cookieModal[open] {
   position: fixed;
-  inset: 2rem 2rem 50%;
+  inset: 40em 2rem 50%;
   animation: verschijn 1s ease-in;
   font-family: sans-serif;
   margin-bottom: var(--witregel-s);
