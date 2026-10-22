@@ -166,6 +166,7 @@ h1 {
   justify-self: center;
   text-align: center;
   grid-column: 2/-1;
+  margin-inline-end: var(--witregel-s);
 }
 
 
@@ -248,6 +249,7 @@ p:first-of-type {
   grid-row: 2;
   max-width: 65ch;
   font-size: clamp(1em, 3cqi, 8em);
+  margin-inline-end: var(--witregel-m);
 
   @media (width > 56em) {
     grid-column: 2/-1;
@@ -273,11 +275,11 @@ main > img:first-of-type {
   }
 }
 
+/* DARK & LIGHT -SWITCH */
 label:first-of-type {
   position: sticky;
-  width: 10%;
-  height: auto;
   top: .5em;
+  bottom: 5em;
   justify-self: end;
   grid-column: 3;
   height: 18em;
@@ -309,6 +311,12 @@ label:first-of-type {
     }
   }
 
+  @media (width < 36em) {
+    height: 6em;
+    width: 2em;
+    justify-self: end;
+  }
+
 
 }
 
@@ -327,14 +335,13 @@ img:nth-of-type(2) {
   }
 
   html:has(input.disc:checked) & {
-    translate: 55%;
+    translate: 52%;
   }
 
   @media (width > 36em) {
     grid-column: 2/3;
     grid-row: 5;
     height: auto;
-    width: 17.5%;
   }
 }
 
