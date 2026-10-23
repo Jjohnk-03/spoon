@@ -410,8 +410,9 @@ p:nth-of-type(2) {
 
 /* MAIN > STORY */
 
-h3 {
+main > h3 {
   margin-inline-start: var(--witregel-l);
+  font-size: clamp(1em, 1cqi, 7em);
 }
 
 article:nth-of-type(even) {
