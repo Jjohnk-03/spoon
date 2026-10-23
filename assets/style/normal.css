@@ -579,13 +579,13 @@ dialog#cookieModal[open] {
 dialog#cookieModal::backdrop {
   background-color: var(--color-transparantwit);
   backdrop-filter: blur(10px);
-  animation: verschijn 1s ease-in;
+  animation: verschijn .8s ease-in;
 }
 
 dialog#cookieModal[open]::backdrop {
   background-color: var(--color-transparantwit);
   backdrop-filter: blur(10px);
-  animation: verschijn 1s ease-in;
+  animation: verschijn .8s ease-in;
 }
 
 html:has( footer dialog:open ) {
