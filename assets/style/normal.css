@@ -22,6 +22,7 @@ MARK: VARIABLES
   --color-transparantgrijs: rgba(49, 49, 20, 0.853);
   --color-focusbox: rgb(28, 250, 54);
   --color-link: rgb(196, 148, 17);
+  --color-active:  rgb(160, 145, 11);
   --color-visited:light-dark(rgb(142, 32, 32), rgb(177, 142, 241));
   --color-visited-bg:light-dark(rgba(142, 32, 32, 0.50), rgb(177, 142, 241, 0.50));
   --color-transparantwit: rgba(249, 249, 245, 0.789);
@@ -198,7 +199,7 @@ header ul {
   gap: var(--witregel-s);
   justify-items: center;
   list-style-type: none;
-  text-shadow: 2px 2px var(--color-textshadow);
+  text-shadow: .05em .05em var(--color-textshadow);
 
   @media (width > 36em) {
     justify-items: start;
@@ -218,6 +219,11 @@ header ul {
       text-decoration: none;
       border: 2px solid var(--color-visited);
       border-radius: .1em;
+
+      &.active {
+        border-color: var(--color-active);
+        color: var(--color-active);
+      }
     }
 
     &:hover {
@@ -305,7 +311,7 @@ main > img:first-of-type {
 /* DARK & LIGHT -SWITCH */
 label:first-of-type {
   position: sticky;
-  top: .5em;
+  top: 2em;
   bottom: 5em;
   justify-self: end;
   grid-column: 3;
@@ -417,8 +423,17 @@ p:nth-of-type(2) {
 /* MAIN > STORY */
 
 main > h3 {
+  font-family: Melodrama;
   margin-inline-start: var(--witregel-l);
-  font-size: clamp(1em, 1cqi, 7em);
+  font-size: clamp(1em, 1.5cqi, 7em);
+  margin-top: var(--witregel-l);
+  grid-column: 1/-1;
+  margin-inline-end: var(--witregel-s);
+
+  @media (width > 36em) {
+    grid-column: 1/2;
+    
+  }
 }
 
 article:nth-of-type(even) {
