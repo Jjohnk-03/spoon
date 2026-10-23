@@ -187,7 +187,7 @@ h1 {
   justify-self: center;
   text-align: center;
   grid-column: 2/-1;
-  margin-inline-end: var(--witregel-s);
+  margin: var(--witregel-s);
 }
 
 
@@ -256,6 +256,7 @@ h2 {
     display: grid;
     place-items: center;
     align-self: start;
+    margin-top: var(--witregel-s);
 }
 
 p:first-of-type {
