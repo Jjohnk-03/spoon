@@ -4,6 +4,10 @@ www.jjk-enterprise.nl
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+## Inhoudsopgave
+
+- [Maandag 31 aug](#maandag-31-aug---kickoff)
+
 # Learning Log
 
 ## Maandag 31 aug - Kickoff
