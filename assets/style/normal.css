@@ -526,9 +526,10 @@ dialog#cookieModal[open] {
   p {
     color: var(--color-text);
     padding: var(--witregel-s);
+    font-size: 1.5em;
   }
   ul{
-    margin-bottom: var(--witregel-m);
+    margin-bottom: var(--witregel-s);
   }
   li {
     margin-bottom: var(--witregel-s);
@@ -540,7 +541,7 @@ dialog#cookieModal[open] {
   }
   
   summary {
-    margin-bottom: var(--witregel-l);
+    margin-bottom: var(--witregel-s);
   }
 
   details {
@@ -557,7 +558,7 @@ dialog#cookieModal[open] {
   button {
     display: flex;
     -ms-flex-align: baseline;
-    margin: var(--witregel-l);
+    margin-top: var(--witregel-l);
     background-color: var(--color-blauw);
     padding: var(--witregel-s);
     border-radius: var(--witregel-s);
