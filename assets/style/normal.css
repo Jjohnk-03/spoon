@@ -195,13 +195,17 @@ header ul {
   font-size: 2em;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: var(--witregel-s-);
+  gap: var(--witregel-s);
   justify-items: center;
   list-style-type: none;
   text-shadow: 2px 2px var(--color-textshadow);
 
   @media (width > 36em) {
     justify-items: start;
+  }
+
+  @media (width > 68em) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
   li {
@@ -257,6 +261,7 @@ h2 {
     place-items: center;
     align-self: start;
     margin-top: var(--witregel-s);
+    margin-inline-start: var(--witregel-s);
 }
 
 p:first-of-type {

@@ -7,6 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Inhoudsopgave
 
 - [Maandag 31 aug](#maandag-31-aug---kickoff)
+- [Maandag 31 aug](#maandag-31-aug---kickoff)
 
 # Learning Log
 
@@ -437,3 +438,7 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 
 
 ### Deepdive - Variabele fonts
+
+### Feedback Vasilis
+
+Learning log compeet maken

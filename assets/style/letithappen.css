@@ -51,6 +51,11 @@ header {
   justify-content: center;
   font-size: clamp(var(--scale-5), var(--scale-7), var(--scale-9));
 }
+h1 {
+  position: sticky;
+  top: 1em;
+  justify-content: end;
+}
 
 main {
   display: grid;
