@@ -47,6 +47,7 @@ We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen 
 ![Zelftest](assets/Zelftest.jpg)<br>
 
 ![Zelftest](assets/zelftest1.jpg)<br>
+
 </details>
 
 <details>
@@ -81,13 +82,14 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 
 ### Deepdive - Interactie: MMD, micro-interacties, forms
 
-Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een men u digitaal maakt.
-![Wok to Walk](assets/woktowalk.png)
+Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een menu digitaal maakt.<br>
+![Wok to Walk](assets/woktowalk.png)<br>
 ![Wok to Walk](assets/woktowalk1.png)
 
 ### Deepdive - Schetsen van o.a. interactie en animatie
 
-We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
+We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken.<br>
+Om uiteindelijk een wireframe te maken die de animaties laat zien.<br>
 ![Schets](assets/wireframe.png)
 
 </details>
@@ -103,16 +105,18 @@ We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zond
 
 ### Deepdive - Praktische CSS
 
-We moesten een lelijke website mooier maken door een artikel te schrijven met wat componenten die vooraf werd gegeven. De voorbereiding was eerst een lelijke website maken.
+We moesten een lelijke website mooier maken door een artikel te schrijven met wat componenten die vooraf werd gegeven.<br>
+De voorbereiding was eerst een lelijke website maken.<br>
 ![PCSS](assets/Praktischecss.png)
 
 ### Deepdive - CSS: fonts met kleur en effecten
 
-Voor de voorbereiding moesten we eerst een stukje tekst na maken door er een font aan toe te voegen en kleur aan de eerste letter van de tekst. en we moesten bij CSS Diner game naar bij level 14 komen.
-![Foxopdracht](assets/Foxopdracht.png)
-![CssDiner](assets/Cssdiner.png)
-
-Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de voorbeeld gaat lijken
+Voor de voorbereiding moesten we eerst een stukje tekst na maken door er een font aan toe te voegen en kleur aan de eerste letter van de tekst<br>
+en we moesten bij CSS Diner game naar bij level 14 komen.<br>
+![Foxopdracht](assets/Foxopdracht.png)<br>
+![CssDiner](assets/Cssdiner.png)<br>
+<br>
+Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de voorbeeld gaat lijken<br>
 ![YouGoGirl](assets/Yougogirl.png)
 
 </details>
@@ -126,21 +130,24 @@ Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de vo
 
 </summary>
 
-We hebben allemaal een artikel gelezen die gaan over de digital garden. en Ik koos voor de 3 kleine artikels om te lezen en heb tijdens het lezen belangrijke informatie opgeschreven en we hebben tactieken gebruikt hoe je een website snel kan scannen en beter begrijpend te lezen.
-
-![Artikel](assets/Artikel.jpg)
-
-We hebben 2 websites uitgekozen om te analyseren of ze 'webby' zijn. door te kijken naar 6 verschillende punten.
-
-ik had gekozen voor deze 2 websites:
-https://melonland.net/
-https://jen.dev/
-
-En had het kort geanalyseerd.
-![TweeWebsites](assets/2websites.jpg)
-
-En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welke het minst. Dus voor ons was het meest webby: https://nuel.pw/
-
+We hebben allemaal een artikel gelezen die gaan over de digital garden.<br>
+En ik koos voor de 3 kleine artikels om te lezen en heb tijdens het lezen belangrijke informatie opgeschreven.<br>
+We hebben tactieken gebruikt hoe je een website snel kan scannen en beter begrijpend te lezen.<br>
+<br>
+![Artikel](assets/Artikel.jpg)<br>
+<br>
+We hebben 2 websites uitgekozen om te analyseren of ze 'webby' zijn. door te kijken naar 6 verschillende punten.<br>
+<br>
+ik had gekozen voor deze 2 websites:<br>
+https://melonland.net/<br>
+https://jen.dev/<br>
+<br>
+En had het kort geanalyseerd.<br>
+![TweeWebsites](assets/2websites.jpg)<br>
+<br>
+En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welke het minst.<br>
+<br>
+Dus voor ons was het meest webby: https://nuel.pw/<br>
 en het minst webby: https://sixey.es/
 
 </details>
