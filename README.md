@@ -192,11 +192,19 @@ Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onder
 
 ## Donderdag 10 sept - Sprint 1
 
+<details>
+<summary>Deepdives</summary>
+
 ### Deepdive - Mooie kleuren en gradients
 
 Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan gebruiken maar ook hoe je percentages kan gebruiken om een positie aan te geven.
 
+</details>
+
 ## Vrijdag 11 sept - Sprint 1
+
+<details>
+<summary>Deepdives</summary>
 
 ### Deepdive - Grid 101 + Media queries
 
@@ -206,6 +214,8 @@ Ter voorbereiding moest ik oefeningen doen die mij ging helpen met het begrijpen
 Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je grid goed kan gebruiken voor je eigen website.
 ![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
+
+</details>
 
 ## Maandag 14 sept - Sprint 1
 
@@ -341,13 +351,23 @@ Met hoe duidelijk alles is. Transparant zijn met alles. En het moet makkelijk te
 
 ## Donderdag 24 sept - Sprint 2
 
+<details>
+<summary>Deepdives</summary>
+
 ### Deepdive - Buttons + Dialogs
 
 Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je js bestand om de body een class te geven en daarmee iets laten gebeuren. Zoals een verandering of animatie. Ik ga dit gebruiken om mijn dialog beter te maken.
 
+</details>
+
 ## Vrijdag 25 sept - Sprint 2
 
+<details>
+<summary>Deepdives</summary>
+
 ### Deepdive - Position + Dialogs
+
+</details>
 
 ### Checkout
 
