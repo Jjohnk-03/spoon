@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: 'Seraphs';
-  src: url('/assets//type/SeraphsVF.woff2') format('woff2'); /* Modern Browsers */
+  src: url('/assets//type/SeraphsVF.woff2') format('woff2');
   font-variation-settings: "wght" 150, "SRFS" 11;
 }
 
@@ -83,6 +83,7 @@ header {
   align-items: center;
   justify-content: end;
 }
+
 h1 {
   position: sticky;
   top: var(--scale-9);
@@ -104,6 +105,10 @@ section:nth-of-type(1) {
   text-wrap: balance;
 }
 
+h2 {
+  display: none;
+}
+
 refrein:nth-of-type(1) {
   grid-column: 3/6;
   grid-row: 2;
@@ -117,6 +122,7 @@ section:nth-of-type(2) {
   grid-row: 3;
   text-wrap: balance;
 }
+
 section:nth-of-type(3) {
   grid-column: 3/6;
   grid-row: 4;
@@ -137,9 +143,6 @@ section:nth-of-type(4) {
   text-wrap: balance;
 }
 
-
-
-
 section:nth-of-type(5) {
   grid-column: 2/6;
   grid-row: 8;
@@ -157,6 +160,7 @@ section:nth-of-type(6) {
   font-size: 2em;
   font-weight: 900;
 }
+
 section:nth-of-type(7) {
   grid-column: 1/6;
   grid-row: 10;
@@ -165,6 +169,7 @@ section:nth-of-type(7) {
   font-size: 2em;
   font-weight: 900;
 }
+
 section:nth-of-type(8) {
   grid-column: 2/5;
   grid-row: 9;
@@ -173,6 +178,7 @@ section:nth-of-type(8) {
   font-size: 1.2em;
   text-align: center;
 }
+
 section:nth-of-type(9) {
   grid-column: 2/5;
   grid-row: 10;
@@ -186,7 +192,7 @@ refrein{
   font-size: 2em;
 }
 
-[stretch] {
+.stretch {
 font-weight: 700;
 text-align: center;
 letter-spacing: .5em;
@@ -213,12 +219,11 @@ font-family: Seraphs;
   }
 }
 
-
-[shadow] {
+.shadow {
   text-shadow: 2px 2px 4px #000000;
 }
 
-[shallow] {
+.shallow {
   color: transparent;
   background-color: rgb(107, 103, 103);
   background-clip: text;
@@ -226,13 +231,13 @@ font-family: Seraphs;
   text-shadow: -1px -1px 10px #ffffff;
 }
 
-[brackets] {
+.brackets {
   opacity: 20%;
   font-style: italic;
   font-size: .7em;
 }
 
-[alarm] {
+.alarm {
   font-size: var(--scale-4);
   animation-name:--font-height-ani;
 	animation-duration: .5s;
