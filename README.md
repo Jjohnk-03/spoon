@@ -121,6 +121,9 @@ En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welk
 
 en het minst webby: https://sixey.es/
 
+<details>
+<summary>Checkout</summary>
+
 ### Checkout
 
 #### Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
@@ -136,6 +139,8 @@ Bij mij inspireert een website het meest als ze interactief, expressief en veras
 
 Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en inspireren.
 
+</details>
+
 ## Dinsdag 8 sept - Sprint 1
 
 Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 links verzamelt die best interessant allemaal een eigen functie hebben, maar wel releteerbaar is met films of webby.
@@ -146,7 +151,7 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
 
 <details>
-<summary>Deepdives</summary>
+<summary>Deepdive</summary>
 
 ### Deepdive - Light & Dark theme
 
@@ -172,6 +177,9 @@ We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die w
 ![TelefoonWireframe](assets/telefoonwf.png)
 ![TelefoonWireframe](assets/telefoonwf1.png)
 
+<details>
+<summary>Checkout</summary>
+
 ### Checkout
 
 #### Leg uit waar het Visual Research in 3 stappen naartoe werkt
@@ -190,10 +198,12 @@ Het gaat over hoe je jezelf kan herkennen in films en er kan inleven. En hoe het
 
 Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onderzoeken.
 
+</details>
+
 ## Donderdag 10 sept - Sprint 1
 
 <details>
-<summary>Deepdives</summary>
+<summary>Deepdive</summary>
 
 ### Deepdive - Mooie kleuren en gradients
 
@@ -204,7 +214,7 @@ Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan geb
 ## Vrijdag 11 sept - Sprint 1
 
 <details>
-<summary>Deepdives</summary>
+<summary>Deepdive</summary>
 
 ### Deepdive - Grid 101 + Media queries
 
@@ -223,6 +233,8 @@ We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantw
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
 
+<details>
+<summary>Checkout</summary>
 
 ### Checkout
 
@@ -238,6 +250,8 @@ Een goeie grid display maken met fractions. die deze code gebruiken: grid-templa
 
 Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbouwen wat er wel en niet goed aan is. Alleen heb ik nog niet het ontwerp af om het nu te kunnen doen.
 
+</details>
+
 ## Woensdag 16 sept - Sprint 1
 
 We hebben onze huidige status van de digital garden nagetekent.
@@ -245,6 +259,9 @@ We hebben onze huidige status van de digital garden nagetekent.
 
 En daarna kreeg ik een schets van degene naast mij hoe ik het contrast kan verbeteren.
 ![Mobieltekening](assets/Mobieltekening1.jpg)
+
+<details>
+<summary>Checkout</summary>
 
 ### Checkout
 
@@ -263,6 +280,8 @@ hoe meer columns en rows hoe meer mogelijkheden maar het lijn talles ook uit waa
 #### Welk principe neem je mee in een laatste iteratie van je eigen Garden?
 
 De balans van de grid.
+
+</details>
 
 ## Vrijdag 18 sept - Sprint 1
 
@@ -284,6 +303,9 @@ Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 
 ## Maandag 21 sept - Sprint 2
 
+<details>
+<summary>Checkout</summary>
+
 ### Checkout
 
 #### Wat zijn HTML landmark role elements?
@@ -303,13 +325,22 @@ color: white;
 
 dus je doet een element in de andere element die eigenlijk een kind is van dat element
 
+</details>
+
 ## Dinsdag 22 sept - Sprint 2
 
-### Deepdive - Buttons, states en selectors
+<details>
+<summary>
+
+### Deepdive - Buttons, states en selectors 
+
+</summary>
 
 Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepaalde naam kan geven in mijn code.
 
 ![ButtonDeepdive](assets/button-dd.jpg)
+
+</details>
 
 ## Woensdag 23 sept - Sprint 2
 
