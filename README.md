@@ -18,6 +18,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [Woensdag 16 sept](#woensdag-16-sept---sprint-1)
 - [Vrijdag 18 sept](#vrijdag-18-sept---sprint-1)
 - [Maandag 21 sept](#maandag-21-sept---sprint-2)
+- [Dinsdag 22 sept](#dinsdag-22-sept---sprint-2)
 - [Woensdag 23 sept](#woensdag-23-sept---sprint-2)
 - [Donderdag 24 sept](#donderdag-24-sept---sprint-2)
 - [Vrijdag 25 sept](#vrijdag-25-sept---sprint-2)
@@ -33,7 +34,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Maandag 31 aug - Kickoff 
 
 <details>
-<summary>Wat heb ik gedaan</summary>
+<summary>
+
+### Proces
+
+</summary>
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.<br>
 
@@ -45,9 +50,11 @@ We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen 
 </details>
 
 <details>
-<summary>Checkout</summary>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
@@ -66,15 +73,21 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 ## Woensdag 2 sept - Sprint 0
 
 <details>
-<summary>Deepdives</summary>
+<summary>
 
 ### Deepdive - Interactie: MMD, micro-interacties, forms
+
+</summary>
 
 Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een men u digitaal maakt.
 ![Wok to Walk](assets/woktowalk.png)
 ![Wok to Walk](assets/woktowalk1.png)
 
+<summary>
+
 ### Deepdive - Schetsen van o.a. interactie en animatie
+
+</summary>
 
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
 ![Schets](assets/wireframe.png)
