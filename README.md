@@ -42,6 +42,8 @@ We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen 
 ![Zelftest](assets/zelftest1.jpg)<br>
 </details>
 
+<details>
+
 ### Checkout
 
 #### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
@@ -55,6 +57,8 @@ Ik heb de naam JJK-Enterprise gekozen omdat die nog beschikbaar was en ik heb di
 #### Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de https link heb gecloned aan de VSCodium en daarna synchronized.
+
+</details>
 
 ## Woensdag 2 sept - Sprint 0
 
