@@ -33,6 +33,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Maandag 31 aug - Kickoff 
 
 <details>
+<summary>Wat heb ik gedaan:</summary>
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.<br>
 
 We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen zodat we voorbereid zijn op alles<br>
@@ -43,6 +44,7 @@ We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen 
 </details>
 
 <details>
+<summary>Checkout</summary>
 
 ### Checkout
 
