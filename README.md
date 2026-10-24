@@ -31,12 +31,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 # Learning Log
 
-<details>
-<summary>
-
 ## Maandag 31 aug - Kickoff 
-
-</summary>
 
 <details>
 <summary>
@@ -72,8 +67,6 @@ Ik heb de naam JJK-Enterprise gekozen omdat die nog beschikbaar was en ik heb di
 #### Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de https link heb gecloned aan de VSCodium en daarna synchronized.
-
-</details>
 
 </details>
 
