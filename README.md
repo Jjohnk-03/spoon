@@ -75,19 +75,17 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 <details>
 <summary>
 
-### Deepdive - Interactie: MMD, micro-interacties, forms
+### Deepdives sprint 0
 
 </summary>
+
+### Deepdive - Interactie: MMD, micro-interacties, forms
 
 Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een men u digitaal maakt.
 ![Wok to Walk](assets/woktowalk.png)
 ![Wok to Walk](assets/woktowalk1.png)
 
-<summary>
-
 ### Deepdive - Schetsen van o.a. interactie en animatie
-
-</summary>
 
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
 ![Schets](assets/wireframe.png)
