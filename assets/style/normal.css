@@ -420,7 +420,7 @@ p:nth-of-type(2) {
   font-size: clamp(45ch, 65ch, 65ch);
 }
 
-/* MAIN > STORY */
+/* MAIN > STORY.HTML */
 
 main > h3 {
   font-family: Melodrama;
@@ -429,6 +429,7 @@ main > h3 {
   margin-top: var(--witregel-l);
   grid-column: 1/-1;
   margin-inline-end: var(--witregel-s);
+  font-weight: 100;
 
   @media (width > 36em) {
     grid-column: 1/2;
