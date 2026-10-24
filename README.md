@@ -31,6 +31,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 # Learning Log
 
+<details>
+<summary>
+
 ## Maandag 31 aug - Kickoff 
 
 <details>
@@ -48,6 +51,9 @@ We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen 
 
 ![Zelftest](assets/zelftest1.jpg)<br>
 </details>
+
+</details>
+</summary>
 
 <details>
 <summary>
