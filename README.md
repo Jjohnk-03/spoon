@@ -75,7 +75,7 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 <details>
 <summary>
 
-### Deepdives sprint 0
+### Deepdives 1e dag
 
 </summary>
 
@@ -95,7 +95,11 @@ We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zond
 ## Vrijdag 4 sept - Sprint 0
 
 <details>
-<summary>Deepdives</summary>
+<summary>
+
+### Deepdives 2e dag
+
+</summary>
 
 ### Deepdive - Praktische CSS
 
@@ -133,9 +137,11 @@ En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welk
 en het minst webby: https://sixey.es/
 
 <details>
-<summary>Checkout</summary>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 
@@ -162,9 +168,11 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
 
 <details>
-<summary>Deepdive</summary>
+<summary>
 
 ### Deepdive - Light & Dark theme
+
+</summary>
 
 Ik heb hier geleerd hoe ik een basic custom light and dark background kan gebruiken. Dus ik ga dat nu ook al implementeren in mijn eigen website, maar ik ga het met een gradient background doen.
 
@@ -189,9 +197,10 @@ We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die w
 ![TelefoonWireframe](assets/telefoonwf1.png)
 
 <details>
-<summary>Checkout</summary>
 
 ### Checkout
+
+</summary>
 
 #### Leg uit waar het Visual Research in 3 stappen naartoe werkt
 
@@ -214,9 +223,11 @@ Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onder
 ## Donderdag 10 sept - Sprint 1
 
 <details>
-<summary>Deepdive</summary>
+<summary>
 
 ### Deepdive - Mooie kleuren en gradients
+
+</summary>
 
 Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan gebruiken maar ook hoe je percentages kan gebruiken om een positie aan te geven.
 
@@ -225,9 +236,11 @@ Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan geb
 ## Vrijdag 11 sept - Sprint 1
 
 <details>
-<summary>Deepdive</summary>
+<summary>
 
 ### Deepdive - Grid 101 + Media queries
+
+</summary>
 
 Ter voorbereiding moest ik oefeningen doen die mij ging helpen met het begrijpen van de grid code's.
 ![GridGarden](assets/gridgarden.jpg)
@@ -245,9 +258,11 @@ We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantw
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
 
 <details>
-<summary>Checkout</summary>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
@@ -272,9 +287,11 @@ En daarna kreeg ik een schets van degene naast mij hoe ik het contrast kan verbe
 ![Mobieltekening](assets/Mobieltekening1.jpg)
 
 <details>
-<summary>Checkout</summary>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 
@@ -315,9 +332,11 @@ Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 ## Maandag 21 sept - Sprint 2
 
 <details>
-<summary>Checkout</summary>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Wat zijn HTML landmark role elements?
 
@@ -370,7 +389,12 @@ Je kan een pop-up scherm hebben als je de website in het begin opent en daar inf
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
 
+<details>
+<summary>
+
 ### Checkout
+
+</summary>
 
 #### Wat is een wireflow en wat heb je er aan?
 
@@ -391,12 +415,16 @@ Hidden costs: Extra kosten pas laten zien in de allerlaatste stap van het afreke
 
 Met hoe duidelijk alles is. Transparant zijn met alles. En het moet makkelijk terug te vinden zijn als je iets wilt aanpassen. en toegankelijk voor iedereen.
 
+</details>
+
 ## Donderdag 24 sept - Sprint 2
 
 <details>
-<summary>Deepdives</summary>
+<summary>
 
 ### Deepdive - Buttons + Dialogs
+
+</summary>
 
 Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je js bestand om de body een class te geven en daarmee iets laten gebeuren. Zoals een verandering of animatie. Ik ga dit gebruiken om mijn dialog beter te maken.
 
@@ -405,13 +433,22 @@ Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je j
 ## Vrijdag 25 sept - Sprint 2
 
 <details>
-<summary>Deepdives</summary>
+<summary>
 
 ### Deepdive - Position + Dialogs
 
+</summary>
+
+
+
 </details>
 
+<details>
+<summary>
+
 ### Checkout
+
+</summary>
 
 #### Wat heb je geleerd?
 
@@ -429,9 +466,16 @@ Dat ik vergeet dat je een alt moet zetten bij je images
 
 Ik moet er iets van opsteken en leren en niet maken wat ik al kan.
 
+</details>
+
 ## Maandag 28 sept - Sprint 2
 
+<details>
+<summary>
+
 ### Checkout
+
+</summary>
 
 #### Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 
@@ -450,6 +494,8 @@ Door naar de lijst te gaan met de koppen
 Door alles voor te laten lezen en daarna selecteren.
 Met de tab knop
 
+</details>
+
 ## Woensdag 30 sept - Sprint 2
 
 We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte een stensel die alle punten nalopen. Waar je dus Yes/No op kan omcirkelen.
@@ -460,8 +506,12 @@ We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte 
 ![WCAG-Checklist](assets/WCAG_CL3.jpg)
 ![WCAG-Checklist](assets/WCAG_CL4.jpg)
 
+<details>
+<summary>
 
 ### Checkout
+
+</summary>
 
 #### Waar staat WCAG en A11y voor?
 
@@ -479,6 +529,8 @@ Voor blinde mensen lijkt mij het lastigst
 
 Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het leuk kan houden voor alle doelgroepen.
 
+</details>
+
 ## Vrijdag 2 okt - Sprint 2
 
 ### Retrospective
@@ -493,7 +545,12 @@ Wat meer linken naar oude designs en de theorie die we leren
 
 ## Maandag 5 okt - Sprint 3
 
+<details>
+<summary>
+
 ### Checkout
+
+</summary>
 
 #### Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
 
@@ -520,17 +577,31 @@ tussen 45 characters en 75 characters
 
 Plaatsing want dat zorgt ervoor dat je een eigen lay-out eraan kan geven.
 
+</details>
+
 ## Dinsdag 6 okt - Sprint 3
 
+<details>
+<summary>
+
 ### Deepdive - Interessantere layouts
+
+</summary>
 
 Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven die responsive zijn of een clamp hebben met daarin bijvoorbeeld een viewport en de clamp zorgt ervoor dat iets niet groter of kleiner word dan een waarde.
 
 ![InteressanteLay-outs](assets/interessanteLayouts.jpg)
 
+</details>
+
 ## Woensdag 7 okt - Sprint 3
 
+<details>
+<summary>
+
 ### Checkout
+
+</summary>
 
 #### Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 
@@ -543,8 +614,17 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 #### Hoeveel gekkigheid moet er in je werk zitten?
 
 
+</details>
+
+<details>
+<summary>
 
 ### Deepdive - Variabele fonts
+
+</summary>
+
+
+</details>
 
 ### Feedback Vasilis
 
