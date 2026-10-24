@@ -7,7 +7,26 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Inhoudsopgave
 
 - [Maandag 31 aug](#maandag-31-aug---kickoff)
-- [Maandag 31 aug](#maandag-31-aug---kickoff)
+- [Woensdag 2 sept](#woensdag-2-sept---sprint-0)
+- [Vrijdag 4 sept](#vrijdag-4-sept---sprint-0)
+- [Maandag 7 sept](#maandag-7-sept---sprint-1)
+- [Dinsdag 8 sept](#dinsdag-8-sept---sprint-1)
+- [Woensdag 9 sept](#woensdag-9-sept---sprint-1)
+- [Donderdag 10 sept](#donderdag-10-sept---sprint-1)
+- [Vrijdag 11 sept](#vrijdag-11-sept---sprint-1)
+- [Maandag 14 sept](#maandag-14-sept---sprint-1)
+- [Woensdag 16 sept](#woensdag-16-sept---sprint-1)
+- [Vrijdag 18 sept](#vrijdag-18-sept---sprint-1)
+- [Maandag 21 sept](#maandag-21-sept---sprint-2)
+- [Woensdag 23 sept](#woensdag-23-sept---sprint-2)
+- [Donderdag 24 sept](#donderdag-24-sept---sprint-2)
+- [Vrijdag 25 sept](#vrijdag-25-sept---sprint-2)
+- [Maandag 28 sept](#maandag-28-sept---sprint-2)
+- [Woensdag 30 sept](#woensdag-30-sept---sprint-2)
+- [Vrijdag 2 okt](#vrijdag-2-okt---sprint-2)
+- [Maandag 5 okt](#maandag-5-okt---sprint-3)
+- [Dinsdag 6 okt](#dinsdag-6-okt---sprint-3)
+- [Woensdag 7 okt](#woensdag-7-okt---sprint-3)
 
 # Learning Log
 
@@ -413,7 +432,7 @@ tussen 45 characters en 75 characters
 
 Plaatsing want dat zorgt ervoor dat je een eigen lay-out eraan kan geven.
 
-## Dinsdag 5 okt - Sprint 3
+## Dinsdag 6 okt - Sprint 3
 
 ### Deepdive - Interessantere layouts
 
@@ -421,7 +440,7 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 
 ![InteressanteLay-outs](assets/interessanteLayouts.jpg)
 
-## Woensdag 6 okt - Sprint 3
+## Woensdag 7 okt - Sprint 3
 
 ### Checkout
 
