@@ -30,13 +30,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 # Learning Log
 
-## Maandag 31 aug - Kickoff
+<summary> ## Maandag 31 aug - Kickoff </summary>
 
+<details>
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
 We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen zodat we voorbereid zijn op alles
 ![Zelftest](assets/Zelftest.jpg)
 ![Zelftest](assets/zelftest1.jpg)
+</details>
 
 ### Checkout
 
