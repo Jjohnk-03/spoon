@@ -119,6 +119,13 @@ Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de vo
 
 ## Maandag 7 sept - Sprint 1
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 We hebben allemaal een artikel gelezen die gaan over de digital garden. en Ik koos voor de 3 kleine artikels om te lezen en heb tijdens het lezen belangrijke informatie opgeschreven en we hebben tactieken gebruikt hoe je een website snel kan scannen en beter begrijpend te lezen.
 
 ![Artikel](assets/Artikel.jpg)
@@ -135,6 +142,8 @@ En had het kort geanalyseerd.
 En daarna gingen we bespreken in groepjes van 4 welke het meest webby is en welke het minst. Dus voor ons was het meest webby: https://nuel.pw/
 
 en het minst webby: https://sixey.es/
+
+</details>
 
 <details>
 <summary>
@@ -160,12 +169,21 @@ Ik wil aan de slag gaan met films. En specifiek over films die me fascineren en 
 
 ## Dinsdag 8 sept - Sprint 1
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 links verzamelt die best interessant allemaal een eigen functie hebben, maar wel releteerbaar is met films of webby.
 ![HTMLPResentatie](assets/HTMLPresentatie.jpg)
 ![HTMLPResentatie1](assets/HTMLPresentatie1.jpg)
 ![HTMLPResentatie2](assets/HTMLPresentatie2.jpg)
 ![HTMLPResentatie3](assets/HTMLPresentatie3.jpg)
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
+
+</details>
 
 <details>
 <summary>
@@ -184,6 +202,13 @@ Ik heb ook geleerd hoe ik foto's kan afwisselen per thema light of dark. Daarmee
 
 ## Woensdag 9 sept - Sprint 1
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die we zelf hebben gemaakt of van het internet en van deze foto's hebben we een abstracte vertaling gemaakt naar een typo graphic. En daar hebben we er 4 uit van gekozen en dat gebruikt ter inspiratie voor de crazy 8.
 
 ![VisRes](assets/VisRes.png)
@@ -196,7 +221,10 @@ We hebben een sfeer woord bedacht voor ons thema en daarmee foto's gezocht die w
 ![TelefoonWireframe](assets/telefoonwf.png)
 ![TelefoonWireframe](assets/telefoonwf1.png)
 
+</details>
+
 <details>
+<summary>
 
 ### Checkout
 
@@ -253,9 +281,18 @@ Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je gr
 
 ## Maandag 14 sept - Sprint 1
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantwoord. En daarna hadden we een vel op onze tafel met een van de vragen die gesteld was. En daarmee moesten we zelf deelvragen bedenken die belangrijk waren om een beter antwoord te kunnen geven op de hoofdvraag. Daarna kregen we een ander vel met al de deelvragen bedacht en daarmee moesten we samen nadenken welke onderzoeksmethode we ervoor zouden kunnen toepassen om op een duidelijk antwoord te komen.
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
+
+</details>
 
 <details>
 <summary>
@@ -280,11 +317,20 @@ Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbo
 
 ## Woensdag 16 sept - Sprint 1
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 We hebben onze huidige status van de digital garden nagetekent.
 ![Mobieltekening](assets/Mobieltekening.jpg)
 
 En daarna kreeg ik een schets van degene naast mij hoe ik het contrast kan verbeteren.
 ![Mobieltekening](assets/Mobieltekening1.jpg)
+
+</details>
 
 <details>
 <summary>
@@ -313,7 +359,12 @@ De balans van de grid.
 
 ## Vrijdag 18 sept - Sprint 1
 
+<details>
+<summary>
+
 ### Retrospective
+
+</summary>
 
 We waren bezig met de retrospective
 
@@ -323,11 +374,22 @@ We waren bezig met de retrospective
 ![Retrospective](assets/rs3.jpg)
 ![Retrospective](assets/rs4.jpg)
 
+</details>
+
+<details>
+<summary>
+
+### Retrospective
+
+</summary>
+
 Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 
 ![Feedback](assets/feedback.jpg)
 ![Feedback](assets/feedback1.jpg)
 ![Feedback](assets/feedback3.jpg)
+
+</details>
 
 ## Maandag 21 sept - Sprint 2
 
@@ -374,6 +436,13 @@ Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepa
 
 ## Woensdag 23 sept - Sprint 2
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
 
 2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
@@ -388,6 +457,8 @@ Je kan een pop-up scherm hebben als je de website in het begin opent en daar inf
 4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
+
+</details>
 
 <details>
 <summary>
@@ -498,6 +569,13 @@ Met de tab knop
 
 ## Woensdag 30 sept - Sprint 2
 
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte een stensel die alle punten nalopen. Waar je dus Yes/No op kan omcirkelen.
 
 ![WCAG-Checklist](assets/WCAG_CL.jpg)
@@ -505,6 +583,8 @@ We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte 
 ![WCAG-Checklist](assets/WCAG_CL2.jpg)
 ![WCAG-Checklist](assets/WCAG_CL3.jpg)
 ![WCAG-Checklist](assets/WCAG_CL4.jpg)
+
+</details>
 
 <details>
 <summary>
@@ -533,7 +613,12 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 
 ## Vrijdag 2 okt - Sprint 2
 
+<details>
+<summary>
+
 ### Retrospective
+
+</summary>
 
 ![Retrospective](assets/sprint2rs.jpg)
 ![Retrospective](assets/sprint2rs1.jpg)
@@ -542,6 +627,8 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 Ik ging op gesprek met Barbara
 
 Wat meer linken naar oude designs en de theorie die we leren
+
+</details>
 
 ## Maandag 5 okt - Sprint 3
 
@@ -571,7 +658,7 @@ Spatial tension = is de witregels en de ruimte en de plaatsing van tekst die geb
 
 #### Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
-tussen 45 characters en 75 characters
+tussen 45 characters en 75 characters, Omdat uit onderzoek is gebleken dat het de perfecte lengte is om snel te kunnen lezen. zonder dat je de draad kwijt raakt.
 
 #### Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 
@@ -626,6 +713,13 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 
 </details>
 
+<details>
+<summary>
+
 ### Feedback Vasilis
 
-Learning log compeet maken
+</summary>
+
+Learning log compeet maken en meer consistentie in witregels.
+
+</details>
