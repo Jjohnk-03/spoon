@@ -33,7 +33,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Maandag 31 aug - Kickoff 
 
 <details>
-<summary>Wat heb ik gedaan:</summary>
+<summary>Wat heb ik gedaan</summary>
+
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.<br>
 
 We hebben een zelftest gemaakt zodat we weten wat voor deepdives we kunnen doen zodat we voorbereid zijn op alles<br>
@@ -64,6 +65,9 @@ Ik kan aanpassingen maken aan mijn pagina via VSCodium omdat ik via de github de
 
 ## Woensdag 2 sept - Sprint 0
 
+<details>
+<summary>Deepdives</summary>
+
 ### Deepdive - Interactie: MMD, micro-interacties, forms
 
 Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke stappen je moet doorlopen als je een men u digitaal maakt.
@@ -75,7 +79,12 @@ Ik heb een begin gemaakt van de wok-to-walk op figma door na te denken welke sta
 We hebben een schetscursus gehad waar we leren om rechte lijnen te schetsen zonder liniaal en vierkanten te tekenen en een grid te maken. om uiteindelijk een wireframe te maken die de animaties laat zien.
 ![Schets](assets/wireframe.png)
 
+</details>
+
 ## Vrijdag 4 sept - Sprint 0
+
+<details>
+<summary>Deepdives</summary>
 
 ### Deepdive - Praktische CSS
 
@@ -90,6 +99,8 @@ Voor de voorbereiding moesten we eerst een stukje tekst na maken door er een fon
 
 Daarna in de les moesten we bij twee quotes css toevoegen zodat het dan op de voorbeeld gaat lijken
 ![YouGoGirl](assets/Yougogirl.png)
+
+</details>
 
 ## Maandag 7 sept - Sprint 1
 
@@ -134,6 +145,9 @@ Ik heb een HTML presentatie gemaakt door Markdown te gebruiken. en heb dus 10 li
 ![HTMLPResentatie3](assets/HTMLPresentatie3.jpg)
 ![HTMLPResentatie3](assets/HTMLPresentatie4.jpg)
 
+<details>
+<summary>Deepdives</summary>
+
 ### Deepdive - Light & Dark theme
 
 Ik heb hier geleerd hoe ik een basic custom light and dark background kan gebruiken. Dus ik ga dat nu ook al implementeren in mijn eigen website, maar ik ga het met een gradient background doen.
@@ -141,6 +155,8 @@ Ik heb hier geleerd hoe ik een basic custom light and dark background kan gebrui
 ![Light&Dark](assets/lightanddark.png)
 
 Ik heb ook geleerd hoe ik foto's kan afwisselen per thema light of dark. Daarmee kan ik een light/dark switch maken en ik heb al een idee hoe.
+
+</details>
 
 ## Woensdag 9 sept - Sprint 1
 
