@@ -336,6 +336,7 @@ Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbo
 
 ![Grid Areas oefening 1](assets/GridAreas-dd.jpg.jpg)
 ![Grid Areas oefening 2](assets/GridAreas-dd2.jpg.jpg)
+![Grid Areas oefening 3](assets/GridAreas-dd3.jpg.jpg)
 
 </details>
 
