@@ -291,16 +291,30 @@ Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je gr
 
 </details>
 
+<details>
+<summary>
+
+### Checkout
+
+</summary>
+
+#### Welke feedback heb je gehad?
+
+Van Barbara kreeg ik te horen dat ik het niet te moeilijk moet willen en dat ik meer een soort gevoel kan creeëren en niet te breed moet willen denken.
+
+</details>
+
 ## Maandag 14 sept - Sprint 1
 
 <details>
 <summary>
 
-### Proces
+### Bi-Weekly Geek
 
 </summary>
 
 We hebben de Bi-weekly geek gehad. Daar hadden we een wooclap vragenlijst beantwoord. En daarna hadden we een vel op onze tafel met een van de vragen die gesteld was. En daarmee moesten we zelf deelvragen bedenken die belangrijk waren om een beter antwoord te kunnen geven op de hoofdvraag. Daarna kregen we een ander vel met al de deelvragen bedacht en daarmee moesten we samen nadenken welke onderzoeksmethode we ervoor zouden kunnen toepassen om op een duidelijk antwoord te komen.
+
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek.jpg)
 ![Bi-WeeklyGeek](assets/Bi-WeeklyGeek1.jpg)
 
@@ -333,6 +347,8 @@ Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbo
 ### Deepdive - Responsive grid + Grid-areas
 
 </summary>
+
+Ik heb geleerd hoe je grid areas kan gebruiken om snel aan te geven waar alles moet staan en te spelen met media queries om een beter responsive website te maken met meer variaties in hierarchie.
 
 ![Grid Areas oefening 1](assets/GridAreas-dd.jpg.jpg)
 ![Grid Areas oefening 2](assets/GridAreas-dd2.jpg.jpg)
@@ -404,7 +420,7 @@ We waren bezig met de retrospective
 <details>
 <summary>
 
-### Retrospective
+### Feedback
 
 </summary>
 
@@ -417,6 +433,18 @@ Daarna ging ik op gesprek met Vasilis en kreeg ik feedback
 </details>
 
 ## Maandag 21 sept - Sprint 2
+
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
+![Cookie Consent](assets/CookieConsent.jpg)
+We zijn erachter gekomen dat je de video van paradiso helemaal niet kan afspelen tenzij je de cookies accepteert maar ze zeggen helemaal niks qua wat je nou precies accepteert. En bij de volkskrant staat veel uitleg en wat meer old school. Bij paradiso staat ook uitleg maar nog niet heel duidelijk, maar wel moderner.
+
+</details>
 
 <details>
 <summary>
@@ -620,6 +648,8 @@ We hebben onze website gecheckt op of het toegankelijk is of niet. We gebruikte 
 ![WCAG-Checklist](assets/WCAG_CL3.jpg)
 ![WCAG-Checklist](assets/WCAG_CL4.jpg)
 
+En ik kwam erachter dat ik nog wat dingen moest aanpassen zoals de kleuren van bepaalde teksten en de focusbox beter zichtbaar maken en dat ik alt aan mijn images moest toevoegen. en na de validator te gebruiken kwam ik er ook achter dat ik een paar errors had die ik moest fixen.
+
 </details>
 
 <details>
@@ -722,19 +752,49 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 <details>
 <summary>
 
+### Deepdive - Variabele fonts
+
+</summary>
+
+Ik heb de opdrachten gemaakt om te zien hoe variable fonts werken ik heb vooral gebruik gemaakt van wakamaifondue. Daarmee kan je zien hoe de fonts eruit zien met de font variation settings per waarde. Dat heb ik kunnen gebruiken voor mijn songtekst, want daar krijgen we als opgave om alleen de variable font Seraphs te gebruiken.
+
+![Variable fonts oefening 1](oefeningen/oefening%201%20-%20var%20fonts/)
+
+</details>
+
+<details>
+<summary>
+
 ### Checkout
 
 </summary>
 
 #### Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 
-
+Het is handig voor de ontwerpen om een hierarchie te creeëren maar ook onvoorspelbaar en responsive. Voor de bezoeker is het handig omdat de consistentie geen chaos veroozaakt maar juist overzichtelijkheid.
 
 #### Noem drie manieren om chaos in je ontwerp te voorkomen.
 
+1. Consistent zijn
+2. Grid aanmaken
+3. Stap voor stap werken.
 
 
 #### Hoeveel gekkigheid moet er in je werk zitten?
+
+Zoveel mogelijk, niks is te gek
+
+</details>
+
+## Vrijdag 9 okt - Sprint 3
+
+<details>
+<summary>
+
+### Deepdive - CSS animaties
+
+</summary>
+
 
 
 </details>
@@ -751,6 +811,8 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 
 <details>
 <summary>
+
+
 
 ### Feedback Vasilis
 
