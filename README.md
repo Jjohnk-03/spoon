@@ -608,6 +608,19 @@ Ik moet er iets van opsteken en leren en niet maken wat ik al kan.
 <details>
 <summary>
 
+### Bi-Weekly Geek 2
+
+</summary>
+
+We hebben het gehad over of we imuum zijn voor propaganda op het internet en daar werd steeds diepere vragen over gesteld met de hoop dat je uiteindelijk een ander zicht/bekijk op het onderwerp heb. 
+
+![Bi-Weekly Geek](assets/Bi-WeeklyGeek3.jpg)
+
+</details>
+
+<details>
+<summary>
+
 ### Checkout
 
 </summary>
@@ -745,6 +758,8 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 
 ![InteressanteLay-outs](assets/interessanteLayouts.jpg)
 
+Ik ga ook gebruik maken van de header verticaal plaatsen die als een sticky mee scrollt.
+
 </details>
 
 ## Woensdag 7 okt - Sprint 3
@@ -759,6 +774,11 @@ Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven di
 Ik heb de opdrachten gemaakt om te zien hoe variable fonts werken ik heb vooral gebruik gemaakt van wakamaifondue. Daarmee kan je zien hoe de fonts eruit zien met de font variation settings per waarde. Dat heb ik kunnen gebruiken voor mijn songtekst, want daar krijgen we als opgave om alleen de variable font Seraphs te gebruiken.
 
 ![Variable fonts oefening 1](oefeningen/oefening%201%20-%20var%20fonts/)
+![Variable fonts oefening 1 foto](assets/varfonts1.jpg)
+
+![Variable fonts oefening 2 foto](assets/varfonts2.jpg)
+
+![Variable fonts oefening 3 foto](assets/varfonts3.jpg)
 
 </details>
 
@@ -799,25 +819,67 @@ Zoveel mogelijk, niks is te gek
 
 </details>
 
+## Maandag 19 okt - Sprint 3
+
+Ik ben gaan kijken hoe webby ik mijn website vind en ik vind het zelf nog niet goed genoeg omdat ik weet dat ik het beter had kunnen doen als ik wat meer tijd erin had kunnen steken
+
+![Hoe Webby is je website](assets/Webbyness.jpg)
+
+Ik ging samen met Joy kijken ernaar en zij kwam op deze punten uit:
+
+![Hoe Webby is je website](assets/Webbyness1.jpg)
+
+## Woensdag 21 okt - Sprint 3
+
 <details>
 <summary>
 
-### Deepdive - Variabele fonts
+### Bi-Weekly Geek
 
 </summary>
 
+Dit keer moesten we nadenken over welke vragen je kan stellen om uiteindelijk een beter antwoord te kunnen geven op de hoofdvraag maar ook hoe je de vraag kan onderzoeken met welke onderzoekmethode.
+![Bi-Weekly Geek Sprint 3](assets/Bi-WeeklyGeek4.jpg)
 
 </details>
 
 <details>
 <summary>
 
+### Proces
 
+</summary>
+
+![Peerfeedback 1](assets/Peerfeedback.jpg)
+![Peerfeedback 2](assets/Peerfeedback1.jpg)
+
+## Vrijdag 23 okt - Sprint 3
+
+<details>
+<summary>
+
+### Retrospective
+
+</summary>
+
+Ik heb de retrospective gemaakt en het belangrijkste gedeelte vind ik wel een metafoor vinden dat ik kan tekenen dat toepasselijk is bij hoe deze sprint bij mij verliep vergeleken met de andere sprints. Maar dit keer moest het gaan over de gehele blok. Dus ik heb een pitstop getekent met een ranglijst waar ik laatste sta maar dankzij de HVC a.k.a. Herfst Vakantie Crew. Heb ik een inhaal slag kunnen maken en ben weer terug bij de race met de finish lijn in zicht.
+
+![Retrospective sprint 3](assets/rs5.jpg)
+![Retrospective sprint 3](assets/rs6.jpg)
+![Retrospective sprint 3](assets/rs7.jpg)
+
+</details>
+
+<details>
+<summary>
 
 ### Feedback Vasilis
 
 </summary>
 
 Learning log compeet maken en meer consistentie in witregels.
+
+![Feedback 1 Sprint 3](assets/FBspr3.jpg)
+![Feedback 2 Sprint 3](assets/FBspr3_1.jpg)
 
 </details>
