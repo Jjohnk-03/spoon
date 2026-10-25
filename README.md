@@ -776,8 +776,10 @@ Ik heb de opdrachten gemaakt om te zien hoe variable fonts werken ik heb vooral 
 ![Variable fonts oefening 1](oefeningen/oefening%201%20-%20var%20fonts/)
 ![Variable fonts oefening 1 foto](assets/varfonts1.jpg)
 
+![Variable fonts oefening 2](oefeningen/oefening%202%20-%20transition/)
 ![Variable fonts oefening 2 foto](assets/varfonts2.jpg)
 
+![Variable fonts oefening 3](oefeningen/oefening%203%20-%20staggered/)
 ![Variable fonts oefening 3 foto](assets/varfonts3.jpg)
 
 </details>
