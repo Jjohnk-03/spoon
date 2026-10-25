@@ -266,6 +266,10 @@ Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onder
 
 Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan gebruiken maar ook hoe je percentages kan gebruiken om een positie aan te geven.
 
+![Gradients deepdive](assets/Mooiekleurenengradients-dd.jpg)
+![Gradients deepdive](assets/Mooiekleurenengradients-dd2.jpg)
+![Gradients deepdive](assets/Mooiekleurenengradients-dd3.jpg)
+
 </details>
 
 ## Vrijdag 11 sept - Sprint 1
@@ -283,6 +287,7 @@ Ter voorbereiding moest ik oefeningen doen die mij ging helpen met het begrijpen
 Daarna kregen wij de deepdive van Sanne en hebben we meer geleerd over hoe je grid goed kan gebruiken voor je eigen website.
 ![GridOefening1](assets/gridoefening1.jpg)
 ![GridOefening2](assets/gridoefening2.jpg)
+![GridOefening3](assets/gridopdracht3.jpg)
 
 </details>
 
@@ -319,6 +324,18 @@ Een goeie grid display maken met fractions. die deze code gebruiken: grid-templa
 #### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbouwen wat er wel en niet goed aan is. Alleen heb ik nog niet het ontwerp af om het nu te kunnen doen.
+
+</details>
+
+<details>
+<summary>
+
+### Deepdive - Responsive grid + Grid-areas
+
+</summary>
+
+![Grid Areas oefening 1](assets/GridAreas-dd.jpg.jpg)
+![Grid Areas oefening 2](assets/GridAreas-dd2.jpg.jpg)
 
 </details>
 
@@ -506,6 +523,12 @@ Met hoe duidelijk alles is. Transparant zijn met alles. En het moet makkelijk te
 
 Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je js bestand om de body een class te geven en daarmee iets laten gebeuren. Zoals een verandering of animatie. Ik ga dit gebruiken om mijn dialog beter te maken.
 
+![Button & Dialogs Deepdive oefening 1](assets/Button&Dialogs-dd.jpg)
+
+![Button & Dialogs Deepdive oefening 2](assets/Button&Dialogs-dd2.jpg)
+
+![Button & Dialogs Deepdive oefening 3](assets/Button&Dialogs-dd3.jpg)
+
 </details>
 
 ## Vrijdag 25 sept - Sprint 2
@@ -517,6 +540,11 @@ Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je j
 
 </summary>
 
+![Position & Dialogs Deepdive oefening 1](assets/Position&Dialogs-dd.jpg)
+
+![Position & Dialogs Deepdive oefening 2](assets/Position&Dialogs-dd2.jpg)
+
+![Position & Dialogs Deepdive oefening 3](assets/Position&Dialogs-dd3.jpg)
 
 
 </details>
@@ -682,7 +710,7 @@ Plaatsing want dat zorgt ervoor dat je een eigen lay-out eraan kan geven.
 
 </summary>
 
-Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven die responsive zijn of een clamp hebben met daarin bijvoorbeeld een viewport en de clamp zorgt ervoor dat iets niet groter of kleiner word dan een waarde.
+Ik heb tijdens deze deepdive gekeken naar hoe ik de titels een size kan geven die responsive zijn of een clamp hebben met daarin bijvoorbeeld een viewport en de clamp zorgt ervoor dat iets niet groter of kleiner word dan een waarde. en je een voorkeur hebt voor welke maat het wel moet zijn als dat lukt. Ik ga deze techniek zeker gebruiken voor alle soorten tekst omdat het heel handig is om het responsive te maken zonder te veel moeite.
 
 ![InteressanteLay-outs](assets/interessanteLayouts.jpg)
 
