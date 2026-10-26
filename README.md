@@ -870,6 +870,8 @@ Dit keer moesten we nadenken over welke vragen je kan stellen om uiteindelijk ee
 ![Peerfeedback 1](assets/Peerfeedback.jpg)
 ![Peerfeedback 2](assets/Peerfeedback1.jpg)
 
+</details>
+
 ## Vrijdag 23 okt - Sprint 3
 
 <details>
