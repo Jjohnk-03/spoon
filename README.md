@@ -28,6 +28,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [Maandag 5 okt](#maandag-5-okt---sprint-3)
 - [Dinsdag 6 okt](#dinsdag-6-okt---sprint-3)
 - [Woensdag 7 okt](#woensdag-7-okt---sprint-3)
+- [Vrijdag 9 okt](#vrijdag-9-okt---sprint-3)
+- [Maandag 19 okt](#maandag-19-okt---sprint-3)
+- [Woensdag 21 okt](#woensdag-21-okt---sprint-3)
+- [Vrijdag 23 okt](#vrijdag-23-okt---sprint-3)
+- [Maandag 26 okt](#maandag-26-okt---sprint-3)
 
 # Learning Log
 
@@ -885,3 +890,5 @@ Learning log compeet maken en meer consistentie in witregels.
 ![Feedback 2 Sprint 3](assets/FBspr3_1.jpg)
 
 </details>
+
+## Maandag 26 okt - Sprint 3
