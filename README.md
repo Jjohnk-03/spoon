@@ -355,9 +355,9 @@ Ja ik ken alle webby vocabulair aspecten uit mijn hoofd dus weet goed te onderbo
 
 Ik heb geleerd hoe je grid areas kan gebruiken om snel aan te geven waar alles moet staan en te spelen met media queries om een beter responsive website te maken met meer variaties in hierarchie.
 
-![Grid Areas oefening 1](assets/GridAreas-dd.jpg.jpg)
-![Grid Areas oefening 2](assets/GridAreas-dd2.jpg.jpg)
-![Grid Areas oefening 3](assets/GridAreas-dd3.jpg.jpg)
+![Grid Areas oefening 1](assets/GridAreas-dd.jpg)
+![Grid Areas oefening 2](assets/GridAreas-dd2.jpg)
+![Grid Areas oefening 3](assets/GridAreas-dd3.jpg)
 
 </details>
 
