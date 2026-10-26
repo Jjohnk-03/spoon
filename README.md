@@ -503,18 +503,25 @@ Ik heb de deepdive gedaan als huiswerk en ik neem mee ik hoe de kleuren een bepa
 
 1. Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
 
+De diensten die ik gebruik is dus de Webring en Github pages hosting
+
 2. Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
 
 Je kan een pop-up scherm hebben als je de website in het begin opent en daar informatie op zetten en hun de keuze geven of ze daarmee akkoord gaan voordat alles in werking gaat.
 
 3. Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
 
-- Over het hele scherm en als je pas accepteert kan je de wbesite gebruiken
+- Over het hele scherm en als je pas accepteert kan je de website gebruiken
 - Je kan het pas aanvinken als je alles 'gelezen' hebt.
 
 4. Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Het zou leuk zijn als ik een oude bioscoopticket gebruik als cookie pop up en dat als je op accepteer klikt dat dan een gedeelte van je ticket wegvalt.
+
+We hebben allemaal naar een website moeten kijken waar dark patterns te vinden zijn. en ik kwam met het idee om op Booking.com te kijken. Daar zag ik dat het moeilijk was om je privacy instellingen te wijzigen. Dus ik had daar een ux wireflow van getekent.
+
+![Dark Pattern Wireflow](assets/Darkpattern.jpg)
+![Dark Pattern Wireflow](assets/Darkpattern1.jpg)
 
 </details>
 
@@ -573,6 +580,8 @@ Ik heb geleerd hoe je buttons kan gebruiken om een funtie aan te roepen van je j
 ### Deepdive - Position + Dialogs
 
 </summary>
+
+Deze deepdive heeft mij geholpen om meer variatie qua plaatsing in mijn eigen website te implementeren.
 
 ![Position & Dialogs Deepdive oefening 1](assets/Position&Dialogs-dd.jpg)
 
@@ -708,9 +717,16 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 ![Retrospective](assets/sprint2rs1.jpg)
 ![Retrospective](assets/sprint2rs2.jpg)
 
-Ik ging op gesprek met Barbara
+Ik ging op gesprek met Barbara en daaruit kwam dat ik:
 
-Wat meer linken naar oude designs en de theorie die we leren
+Wat meer moet linken naar oude designs en de theorie die we leren.
+
+![Feedback Sprint 2](assets/FBspr2.jpg)
+![Feedback Sprint 2](assets/FBspr2_1.jpg)
+![Feedback Sprint 2](assets/FBspr2_2.jpg)
+![Feedback Sprint 2](assets/FBspr2_3.jpg)
+![Feedback Sprint 2](assets/FBspr2_4.jpg)
+![Feedback Sprint 2](assets/FBspr2_5.jpg)
 
 </details>
 
@@ -822,12 +838,11 @@ Zoveel mogelijk, niks is te gek
 
 </summary>
 
-
+Ik heb niet veel gedaan aan deze deepdive maar dat is omdat mijn prioriteiten eerst nog elders liggen.
 
 </details>
 
 ## Maandag 19 okt - Sprint 3
-
 
 <details>
 <summary>
@@ -904,3 +919,22 @@ Learning log compeet maken en meer consistentie in witregels.
 </details>
 
 ## Maandag 26 okt - Sprint 3
+
+
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
+We hebben een expo gehouden en we hebben elkaar beoordeelt aan de hand van stickers per categorie en ik heb veel positieve feedback gekregen en een verbeterpunt.
+![Expo stickervel](assets/Expo)
+
+Ik heb weer gekeken of het webby genoeg is en op veel punten klopt het maar op een paar punten kan er nog wat verbetering in. Dus dat ga ik nog proberen aan te passen voor de deadline
+![Webbyness](assets/Webbyness2.jpg)
+
+De learning log hebben we in groepjes vergeleken om te kijken hoe compleet van een ieder was. En ik merkte dat ik bij sommige dagen ben vergeten een foto van iets toe te voegen wat ik wel al gemaakt had. Dus ik ga het nog completer maken met behulp van de inzichten die ik heb gekregen na de vergelijkingen.
+![Learning log](assets/LearningLog.jpg)
+
+</details>
