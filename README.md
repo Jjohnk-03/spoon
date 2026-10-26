@@ -828,6 +828,14 @@ Zoveel mogelijk, niks is te gek
 
 ## Maandag 19 okt - Sprint 3
 
+
+<details>
+<summary>
+
+### Proces
+
+</summary>
+
 Ik ben gaan kijken hoe webby ik mijn website vind en ik vind het zelf nog niet goed genoeg omdat ik weet dat ik het beter had kunnen doen als ik wat meer tijd erin had kunnen steken
 
 ![Hoe Webby is je website](assets/Webbyness.jpg)
@@ -835,6 +843,8 @@ Ik ben gaan kijken hoe webby ik mijn website vind en ik vind het zelf nog niet g
 Ik ging samen met Joy kijken ernaar en zij kwam op deze punten uit:
 
 ![Hoe Webby is je website](assets/Webbyness1.jpg)
+
+</details>
 
 ## Woensdag 21 okt - Sprint 3
 
