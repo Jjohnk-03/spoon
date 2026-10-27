@@ -6,33 +6,33 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Inhoudsopgave
 
-- [Maandag 31 aug](#maandag-31-aug---kickoff)
-- [Woensdag 2 sept](#woensdag-2-sept---sprint-0)
-- [Vrijdag 4 sept](#vrijdag-4-sept---sprint-0)
-- [Maandag 7 sept](#maandag-7-sept---sprint-1)
-- [Dinsdag 8 sept](#dinsdag-8-sept---sprint-1)
-- [Woensdag 9 sept](#woensdag-9-sept---sprint-1)
-- [Donderdag 10 sept](#donderdag-10-sept---sprint-1)
-- [Vrijdag 11 sept](#vrijdag-11-sept---sprint-1)
-- [Maandag 14 sept](#maandag-14-sept---sprint-1)
-- [Woensdag 16 sept](#woensdag-16-sept---sprint-1)
-- [Vrijdag 18 sept](#vrijdag-18-sept---sprint-1)
-- [Maandag 21 sept](#maandag-21-sept---sprint-2)
-- [Dinsdag 22 sept](#dinsdag-22-sept---sprint-2)
-- [Woensdag 23 sept](#woensdag-23-sept---sprint-2)
-- [Donderdag 24 sept](#donderdag-24-sept---sprint-2)
-- [Vrijdag 25 sept](#vrijdag-25-sept---sprint-2)
-- [Maandag 28 sept](#maandag-28-sept---sprint-2)
-- [Woensdag 30 sept](#woensdag-30-sept---sprint-2)
-- [Vrijdag 2 okt](#vrijdag-2-okt---sprint-2)
-- [Maandag 5 okt](#maandag-5-okt---sprint-3)
-- [Dinsdag 6 okt](#dinsdag-6-okt---sprint-3)
-- [Woensdag 7 okt](#woensdag-7-okt---sprint-3)
-- [Vrijdag 9 okt](#vrijdag-9-okt---sprint-3)
-- [Maandag 19 okt](#maandag-19-okt---sprint-3)
-- [Woensdag 21 okt](#woensdag-21-okt---sprint-3)
-- [Vrijdag 23 okt](#vrijdag-23-okt---sprint-3)
-- [Maandag 26 okt](#maandag-26-okt---sprint-3)
+- [Maandag 31 aug Kickoff](#maandag-31-aug---kickoff)
+- [Woensdag 2 sept Sprint 0](#woensdag-2-sept---sprint-0)
+- [Vrijdag 4 sept Sprint 0](#vrijdag-4-sept---sprint-0)
+- [Maandag 7 sept Sprint 1](#maandag-7-sept---sprint-1)
+- [Dinsdag 8 sept Sprint 1](#dinsdag-8-sept---sprint-1)
+- [Woensdag 9 sept Sprint 1](#woensdag-9-sept---sprint-1)
+- [Donderdag 10 sept Sprint 1](#donderdag-10-sept---sprint-1)
+- [Vrijdag 11 sept Sprint 1](#vrijdag-11-sept---sprint-1)
+- [Maandag 14 sept Sprint 1](#maandag-14-sept---sprint-1)
+- [Woensdag 16 sept Sprint 1](#woensdag-16-sept---sprint-1)
+- [Vrijdag 18 sept Sprint 1](#vrijdag-18-sept---sprint-1)
+- [Maandag 21 sept Sprint 2](#maandag-21-sept---sprint-2)
+- [Dinsdag 22 sept Sprint 2](#dinsdag-22-sept---sprint-2)
+- [Woensdag 23 sept Sprint 2](#woensdag-23-sept---sprint-2)
+- [Donderdag 24 sept Sprint 2](#donderdag-24-sept---sprint-2)
+- [Vrijdag 25 sept Sprint 2](#vrijdag-25-sept---sprint-2)
+- [Maandag 28 sept Sprint 2](#maandag-28-sept---sprint-2)
+- [Woensdag 30 sept Sprint 2](#woensdag-30-sept---sprint-2)
+- [Vrijdag 2 okt Sprint 2](#vrijdag-2-okt---sprint-2)
+- [Maandag 5 okt Sprint 3](#maandag-5-okt---sprint-3)
+- [Dinsdag 6 okt Sprint 3](#dinsdag-6-okt---sprint-3)
+- [Woensdag 7 okt Sprint 3](#woensdag-7-okt---sprint-3)
+- [Vrijdag 9 okt Sprint 3](#vrijdag-9-okt---sprint-3)
+- [Maandag 19 okt Sprint 3](#maandag-19-okt---sprint-3)
+- [Woensdag 21 okt Sprint 3](#woensdag-21-okt---sprint-3)
+- [Vrijdag 23 okt Sprint 3](#vrijdag-23-okt---sprint-3)
+- [Maandag 26 okt Sprint 3](#maandag-26-okt---sprint-3)
 
 
 # bronnen
@@ -985,7 +985,7 @@ Ik heb de retrospective gemaakt en het belangrijkste gedeelte vind ik wel een me
 
 </summary>
 
-Learning log compeet maken en meer consistentie in witregels.
+Vasilis: Learning log compeet maken en meer consistentie in witregels.
 
 ![Feedback 1 Sprint 3](assets/FBspr3.jpg)
 ![Feedback 2 Sprint 3](assets/FBspr3_1.jpg)
