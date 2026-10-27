@@ -677,6 +677,10 @@ Door naar de lijst te gaan met de koppen
 Door alles voor te laten lezen en daarna selecteren.
 Met de tab knop
 
+### Deepdive - Meer interactie met HTML en CSS
+
+![Meer Interactie](assets/MeerInteractie-dd.jpg)
+
 </details>
 
 ## Woensdag 30 sept - Sprint 2
@@ -878,6 +882,23 @@ Zoveel mogelijk, niks is te gek
 
 </details>
 
+<details>
+<summary>
+
+### Checkout
+
+</summary>
+
+#### Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+Ik gebruik de variabelen Weight en Serafs. Dus dan gaat het om de dikte van de tekst en om welke vorm de font krijgt. Ik gebruik deze property om het te benoemen: font-variation-settings: "wght" 150, "SRFS" 11;
+
+#### Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+De Weight laat zien hoe luid iets gezegt wordt of hoe zacht maar ook hoe duidelijk je het wilt qua leesbaarheid, Vaak is de beste leesbaarheid ergens in het midden.
+
+#### Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+Ik zou dus bij de gestrekte letters een soort ritme toevoegen door een delay per span letter te geven. Zodat ze niet allemaal tegelijk de animatie doen maar als een soort wave effect.
+
+</details>
 
 <details>
 <summary>
