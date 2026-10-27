@@ -834,6 +834,21 @@ Zoveel mogelijk, niks is te gek
 <details>
 <summary>
 
+### Proces
+
+</summary>
+
+![Songtekst schetsen](assets/songtekst_schets.jpg)
+![Songtekst schetsen](assets/songtekst_schets1.jpg)
+![Songtekst schetsen](assets/songtekst_schets2.jpg)
+![Songtekst schetsen](assets/songtekst_schets3.jpg)
+
+</details>
+
+
+<details>
+<summary>
+
 ### Deepdive - CSS animaties
 
 </summary>
@@ -929,7 +944,7 @@ Learning log compeet maken en meer consistentie in witregels.
 </summary>
 
 We hebben een expo gehouden en we hebben elkaar beoordeelt aan de hand van stickers per categorie en ik heb veel positieve feedback gekregen en een verbeterpunt.
-![Expo stickervel](assets/Expo)
+![Expo stickervel](assets/Expo.jpg)
 
 Ik heb weer gekeken of het webby genoeg is en op veel punten klopt het maar op een paar punten kan er nog wat verbetering in. Dus dat ga ik nog proberen aan te passen voor de deadline
 ![Webbyness](assets/Webbyness2.jpg)
