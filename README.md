@@ -33,19 +33,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [Woensdag 21 okt Sprint 3](#woensdag-21-okt---sprint-3)
 - [Vrijdag 23 okt Sprint 3](#vrijdag-23-okt---sprint-3)
 - [Maandag 26 okt Sprint 3](#maandag-26-okt---sprint-3)
-
-<details>
-<summary>
-
-# bronnen
-
-</summary>
-
-![bron 1](assets/bron1.png)
-<br>
-Bron 1: Vue Cinemas, https://www.vuecinemas.nl/film/the-odyssey
-
-</details>
+- [Bronnen](#bronnen)
 
 # Learning Log
 
@@ -1038,3 +1026,14 @@ Alle afbeeldingen zijn goed gedraaid!
 Van de enige foto die ik gebruikt heb. Heb ik de bron ervan vermeld in mijn log
 
 </details>
+
+<details>
+<summary>
+
+# Bronnen
+
+</summary>
+
+![bron 1](assets/bron1.png)
+<br>
+Bron 1: Vue Cinemas, https://www.vuecinemas.nl/film/the-odyssey
