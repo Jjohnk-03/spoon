@@ -34,6 +34,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [Vrijdag 23 okt](#vrijdag-23-okt---sprint-3)
 - [Maandag 26 okt](#maandag-26-okt---sprint-3)
 
+
+# bronnen
+
+![bron 1](assets/bron1.png)
+Bron 1: Vue Cinemas, https://www.vuecinemas.nl/film/the-odyssey
+
 # Learning Log
 
 ## Maandag 31 aug - Kickoff 
@@ -950,6 +956,25 @@ Ik heb weer gekeken of het webby genoeg is en op veel punten klopt het maar op e
 ![Webbyness](assets/Webbyness2.jpg)
 
 De learning log hebben we in groepjes vergeleken om te kijken hoe compleet van een ieder was. En ik merkte dat ik bij sommige dagen ben vergeten een foto van iets toe te voegen wat ik wel al gemaakt had. Dus ik ga het nog completer maken met behulp van de inzichten die ik heb gekregen na de vergelijkingen.
-![Learning log](assets/LearningLog.jpg)
+
+Ik heb alleen de stensel niet meer bij mij dus ik ga de antwoorden hier beantwoorden met behulp van de vragen die staan op DLO
+
+#### 1. Is het Learning Log compleet? Loop hiervoor in DLO de sprints door en kijk waar onderdelen ontbreken. Leg de verschillende Learning Logs naast elkaar en vergelijk.
+Ik mis een paar checkouts en een paar deepdives die ik niet helemaal heb gedaan maar voor de rest is het compleet. Behalve dan dat ik niet veel heb geschetst. en mijn proces van het ontwerp bij heb gehouden
+
+#### 2. Zijn de drie visual-thinking opdrachten tijdens de retrospect uitgevoerd/opgenomen en wordt uit de tekeningen en het proces duidelijk hoe de student het blok ervaren heeft?
+Alle drie de visual-thinking opdrachten zijn uitgevoerd en opgenomen. En ik vind zelf dat het een duidelijke metaforische beschrijving geeft hoe ik dit proces heb ervaren.
+
+#### 3. Zijn de processen uit sprint 1, 2 en 3 navolgbaar? Denk hierbij aan visual research-schetsen-varianten voor de digital garden, de gekozen stijl en posters tijdens de online les, schetsen van de human consent notice en uiteindelijke uitwerking, schetsen en experimenten met typografie in sprint 3.
+Niet helemaal naar mijn mening daar kon ik wat meer laten zien naar wat ik zelf gemaakt heb. Maar dat heb ik niet bijgehouden door screenshots te maken.
+
+#### 4. Zijn schetsen vastgelegd en staat daar een omschrijving bij?
+Er zijn niet veel schetsen vastgelegd maar overal is wel een kleine uitleg erbij. Ik heb niet veel schetsen omdat ik zelf niet zo van het schetsen bent. Terwijl mij wel meerder malen is verteld dat het handig is. (Ik ben eigenwijs)
+
+#### 5. Zijn alle afbeeldingen goed gedraaid of staan afbeeldingen er verkeerd om in?
+Alle afbeeldingen zijn goed gedraaid!
+
+#### 6. Zijn alle bronnen vermeld?
+Van de enige foto die ik gebruikt heb. Heb ik de bron ervan vermeld in mijn log
 
 </details>
