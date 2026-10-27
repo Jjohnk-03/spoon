@@ -288,6 +288,21 @@ Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan geb
 <details>
 <summary>
 
+### Proces
+
+</summary>
+
+Ik heb in illustrator een dvd speler gemaakt omdat ik een soort nostalgisch gevoel wil creeëren die iedereen wel herkent.
+![Inspo Website](assets/inspo2.jpeg)
+
+Uiteindelijk heb ik dit allemaal gecreeërd in illustrator en heb er SVG's van gemaakt zodat het geen achtergrond met zich mee brengt. En heb het als in Images in mijn website geïmplementeerd
+![Illustrator Proces](assets/illustrator_proces.jpg)
+
+</details>
+
+<details>
+<summary>
+
 ### Deepdive - Grid 101 + Media queries
 
 </summary>
@@ -741,6 +756,18 @@ Wat meer moet linken naar oude designs en de theorie die we leren.
 <details>
 <summary>
 
+### Proces
+
+</summary>
+
+Hier ging ik kijken hoe ik het in een mooie grid kon zetten maar al snel begreep ik dat ik minder elemten moest gebruiken want daardoor ging het zo opbreken in aparte kolommen en rijen.
+![Songtekst Proces](assets/songtekst_proces.png)
+
+</details>
+
+<details>
+<summary>
+
 ### Checkout
 
 </summary>
@@ -905,6 +932,10 @@ Dit keer moesten we nadenken over welke vragen je kan stellen om uiteindelijk ee
 
 ![Peerfeedback 1](assets/Peerfeedback.jpg)
 ![Peerfeedback 2](assets/Peerfeedback1.jpg)
+
+Ik heb een Light/Dark switch gemaakt geïnspireert door de broadway banners die je wel eens ziet bij broadway. dat leek me dus een leuk idee. En dankzij Sanne lukt het ook nog om de switch zelf te veranderen van svg foto.
+![Inspo Switch](assets/inspo.png)
+![Light switch](assets/switch.jpg)
 
 </details>
 
