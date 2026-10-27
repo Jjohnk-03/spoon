@@ -1,6 +1,6 @@
 # Model
 
-www.jjk-enterprise.nl
+Mijn Digitaal tuintje: www.jjk-enterprise.nl
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
@@ -14,24 +14,24 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [Woensdag 9 sept Sprint 1](#woensdag-9-sept---sprint-1)
 - [Donderdag 10 sept Sprint 1](#donderdag-10-sept---sprint-1)
 - [Vrijdag 11 sept Sprint 1](#vrijdag-11-sept---sprint-1)
-- [Maandag 14 sept Sprint 1](#maandag-14-sept---sprint-1)
+- [Maandag 14 sept Sprint 1 (Bi-Weekly Geek)](#maandag-14-sept---sprint-1)
 - [Woensdag 16 sept Sprint 1](#woensdag-16-sept---sprint-1)
-- [Vrijdag 18 sept Sprint 1](#vrijdag-18-sept---sprint-1)
+- [Vrijdag 18 sept Sprint 1 (Retrospective)](#vrijdag-18-sept---sprint-1)
 - [Maandag 21 sept Sprint 2](#maandag-21-sept---sprint-2)
 - [Dinsdag 22 sept Sprint 2](#dinsdag-22-sept---sprint-2)
 - [Woensdag 23 sept Sprint 2](#woensdag-23-sept---sprint-2)
 - [Donderdag 24 sept Sprint 2](#donderdag-24-sept---sprint-2)
 - [Vrijdag 25 sept Sprint 2](#vrijdag-25-sept---sprint-2)
-- [Maandag 28 sept Sprint 2](#maandag-28-sept---sprint-2)
+- [Maandag 28 sept Sprint 2 (Bi-Weekly Geek)](#maandag-28-sept---sprint-2)
 - [Woensdag 30 sept Sprint 2](#woensdag-30-sept---sprint-2)
-- [Vrijdag 2 okt Sprint 2](#vrijdag-2-okt---sprint-2)
+- [Vrijdag 2 okt Sprint 2 (Retrospective)](#vrijdag-2-okt---sprint-2)
 - [Maandag 5 okt Sprint 3](#maandag-5-okt---sprint-3)
 - [Dinsdag 6 okt Sprint 3](#dinsdag-6-okt---sprint-3)
 - [Woensdag 7 okt Sprint 3](#woensdag-7-okt---sprint-3)
 - [Vrijdag 9 okt Sprint 3](#vrijdag-9-okt---sprint-3)
 - [Maandag 19 okt Sprint 3](#maandag-19-okt---sprint-3)
-- [Woensdag 21 okt Sprint 3](#woensdag-21-okt---sprint-3)
-- [Vrijdag 23 okt Sprint 3](#vrijdag-23-okt---sprint-3)
+- [Woensdag 21 okt Sprint 3 (Bi-Weekly Geek)](#woensdag-21-okt---sprint-3)
+- [Vrijdag 23 okt Sprint 3 (Retrospective)](#vrijdag-23-okt---sprint-3)
 - [Maandag 26 okt Sprint 3](#maandag-26-okt---sprint-3)
 - [Bronnen](#bronnen)
 
@@ -638,7 +638,7 @@ Ik moet er iets van opsteken en leren en niet maken wat ik al kan.
 <details>
 <summary>
 
-### Bi-Weekly Geek 2
+### Bi-Weekly Geek
 
 </summary>
 
@@ -737,6 +737,15 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 ![Retrospective](assets/sprint2rs.jpg)
 ![Retrospective](assets/sprint2rs1.jpg)
 ![Retrospective](assets/sprint2rs2.jpg)
+
+</details>
+
+<details>
+<summary>
+
+### Feedback
+
+</summary>
 
 Ik ging op gesprek met Barbara en daaruit kwam dat ik:
 
@@ -871,6 +880,7 @@ Zoveel mogelijk, niks is te gek
 
 </summary>
 
+Ik heb eerst gekeken naar hoe ik het liedje kan onderscheiden. Dus vanaf welk moment komt er wat voor beatdrop en Zegt hij dingen hetzelfde. En welke emoties hoor ik op welke momenten. Daarna begon ik de gehele tekst te schetsen omdat ik dacht dat we de hele tekst moesten visualiseren uiteindelijk. Ik ben maar met 1 gehele schets gekomen. En daarna begon ik het gewoon in een grid te zetten en in sections te zetten. Ik heb veel kolommen en rijen gemaakt zodat ik veel kan variëren met de plaatsing ervan. Daarna gaf ik alle woorden die hetzelfde klonken dezelfde class. En de teksten die als refrein waren gaf ik een eigen element.
 ![Songtekst schetsen](assets/songtekst_schets.jpg)
 ![Songtekst schetsen](assets/songtekst_schets1.jpg)
 ![Songtekst schetsen](assets/songtekst_schets2.jpg)
@@ -947,6 +957,7 @@ Dit keer moesten we nadenken over welke vragen je kan stellen om uiteindelijk ee
 
 </summary>
 
+Ik heb op basis van deze feedback wat dingen gefixt die ik zelf eerst niet door had. Maar heel makkelijk voor mij te fixen is. Dus dat is dan mooi meegenomen.
 ![Peerfeedback 1](assets/Peerfeedback.jpg)
 ![Peerfeedback 2](assets/Peerfeedback1.jpg)
 
@@ -976,7 +987,7 @@ Ik heb de retrospective gemaakt en het belangrijkste gedeelte vind ik wel een me
 <details>
 <summary>
 
-### Feedback Vasilis
+### Feedback
 
 </summary>
 
