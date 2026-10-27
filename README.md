@@ -679,6 +679,7 @@ Met de tab knop
 
 ### Deepdive - Meer interactie met HTML en CSS
 
+Hier krijgen we wat meer basis uitleg maar ook wat uitleg over hoe je het beste forms in zijn max gebruik van kan maken.
 ![Meer Interactie](assets/MeerInteractie-dd.jpg)
 
 </details>
