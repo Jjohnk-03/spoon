@@ -38,6 +38,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 # bronnen
 
 ![bron 1](assets/bron1.png)
+<br>
 Bron 1: Vue Cinemas, https://www.vuecinemas.nl/film/the-odyssey
 
 # Learning Log
