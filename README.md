@@ -272,6 +272,8 @@ Ik zou het liefst het idee met de dvd speler en de discs uitvoeren/ verder onder
 
 Ik weet nu hoe alle soorten gradients werken en hoe je meerdere tegelijk kan gebruiken maar ook hoe je percentages kan gebruiken om een positie aan te geven.
 
+Ik ga gradients gebruiken voor mijn achtergrond en ik ga de gradients in een light & dark custom property zetten.
+
 ![Gradients deepdive](assets/Mooiekleurenengradients-dd.jpg)
 ![Gradients deepdive](assets/Mooiekleurenengradients-dd2.jpg)
 ![Gradients deepdive](assets/Mooiekleurenengradients-dd3.jpg)
@@ -734,6 +736,7 @@ Soort van wel maar ik weet nu dat je met media query's manieren zijn hoe je het 
 
 </summary>
 
+In mijn metafoor laat ik zien dat ik niet tevreden ben met wat ik bereikt heb omdat ik weet dat ik meer kan. Alleen ben ik ook inspiratieloos. Dat komt omdat ik het niet te moeilijk voor mezelf wil maken maar wel een soort uitdaging erin. Alleen vind ik de uitdaging al dat we geen classes mogen gebruiken tenzij het niet anders kan. Ik weet wel hoe ik het doolhof kan oplossen alleen wil ik een leuke uitdagende route hebben.
 ![Retrospective](assets/sprint2rs.jpg)
 ![Retrospective](assets/sprint2rs1.jpg)
 ![Retrospective](assets/sprint2rs2.jpg)
